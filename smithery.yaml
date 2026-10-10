@@ -1,0 +1,18 @@
+# Smithery configuration: https://smithery.ai/docs/build/project-config
+# stdio server; no configuration or API key required.
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties:
+      dataUrl:
+        type: string
+        description: "Optional: override the listings JSON URL (default https://mcptools.si/data/tools.json)."
+    additionalProperties: false
+  commandFunction: |-
+    (config) => ({
+      command: 'node',
+      args: ['src/index.js'],
+      env: config.dataUrl ? { MCPTOOLS_DATA_URL: config.dataUrl } : {}
+    })
+  exampleConfig: {}

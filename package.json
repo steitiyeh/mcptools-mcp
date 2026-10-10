@@ -1,0 +1,51 @@
+{
+  "name": "mcptools-mcp",
+  "version": "0.1.0",
+  "description": "MCP server to search the mcptools.si directory of MCP servers (stdio, no API key).",
+  "mcpName": "io.github.steitiyeh/mcptools-mcp",
+  "type": "module",
+  "bin": {
+    "mcptools-mcp": "src/index.js"
+  },
+  "main": "src/server.js",
+  "exports": {
+    ".": "./src/server.js",
+    "./catalog": "./src/catalog.js"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE",
+    "server.json"
+  ],
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test",
+    "smoke": "node scripts/smoke.js postgres"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "mcptools",
+    "directory",
+    "search"
+  ],
+  "author": "Firas Steitiyeh",
+  "license": "MIT",
+  "homepage": "https://mcptools.si",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steitiyeh/mcptools-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/steitiyeh/mcptools-mcp/issues"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "zod": "^4.6.5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.steitiyeh/mcptools-mcp",
+  "title": "mcptools.si directory search",
+  "description": "Search the mcptools.si directory of MCP servers by keyword, tag, or name. No API key.",
+  "version": "0.1.0",
+  "websiteUrl": "https://mcptools.si",
+  "repository": {
+    "url": "https://github.com/steitiyeh/mcptools-mcp",
+    "source": "github"
+  },
+  "packages": [
+    {
+      "registryType": "npm",
+      "registryBaseUrl": "https://registry.npmjs.org",
+      "identifier": "mcptools-mcp",
+      "version": "0.1.0",
+      "runtimeHint": "npx",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "MCPTOOLS_DATA_URL",
+          "description": "Override the listings JSON URL (default https://mcptools.si/data/tools.json). http(s):// or file://",
+          "isRequired": false,
+          "isSecret": false,
+          "format": "string"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3922 @@
+[
+  {
+    "name": "Filesystem",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem",
+    "description": "Official MCP server for local filesystem read/write (reference implementation).",
+    "tags": [
+      "official",
+      "filesystem",
+      "local"
+    ],
+    "repo": "modelcontextprotocol/servers",
+    "stars": 90957,
+    "forks": 11747,
+    "watchers": 636,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com/github/github-mcp-server",
+    "description": "Official GitHub MCP server for issues, pull requests, and repository operations.",
+    "tags": [
+      "official",
+      "github",
+      "devtools"
+    ],
+    "repo": "github/github-mcp-server",
+    "stars": 33329,
+    "forks": 5072,
+    "watchers": 402,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Git",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/git",
+    "description": "Official MCP server for reading and searching local git repositories.",
+    "tags": [
+      "official",
+      "git",
+      "devtools",
+      "local"
+    ],
+    "repo": "modelcontextprotocol/servers",
+    "stars": 90957,
+    "forks": 11747,
+    "watchers": 636,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Fetch",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
+    "description": "Official MCP server for fetching web pages as markdown or plain text.",
+    "tags": [
+      "official",
+      "web",
+      "http"
+    ],
+    "repo": "modelcontextprotocol/servers",
+    "stars": 90957,
+    "forks": 11747,
+    "watchers": 636,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Memory",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory",
+    "description": "Official knowledge-graph memory server for persistent agent context.",
+    "tags": [
+      "official",
+      "memory",
+      "local"
+    ],
+    "repo": "modelcontextprotocol/servers",
+    "stars": 90957,
+    "forks": 11747,
+    "watchers": 636,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Sequential Thinking",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking",
+    "description": "Official MCP server for structured multi-step reasoning traces.",
+    "tags": [
+      "official",
+      "reasoning",
+      "devtools"
+    ],
+    "repo": "modelcontextprotocol/servers",
+    "stars": 90957,
+    "forks": 11747,
+    "watchers": 636,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "PostgreSQL",
+    "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/postgres",
+    "description": "Archived reference MCP server for read-only PostgreSQL queries.",
+    "tags": [
+      "archived",
+      "database",
+      "postgres"
+    ],
+    "repo": "modelcontextprotocol/servers-archived",
+    "stars": 303,
+    "forks": 169,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "SQLite",
+    "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite",
+    "description": "Archived reference MCP server for querying and editing SQLite databases.",
+    "tags": [
+      "archived",
+      "database",
+      "sqlite",
+      "local"
+    ],
+    "repo": "modelcontextprotocol/servers-archived",
+    "stars": 303,
+    "forks": 169,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Puppeteer",
+    "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer",
+    "description": "Archived reference browser automation MCP server using Puppeteer.",
+    "tags": [
+      "archived",
+      "browser",
+      "automation"
+    ],
+    "repo": "modelcontextprotocol/servers-archived",
+    "stars": 303,
+    "forks": 169,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Brave Search",
+    "url": "https://github.com/brave/brave-search-mcp-server",
+    "description": "Official Brave Search MCP server for web and local search.",
+    "tags": [
+      "official",
+      "search",
+      "web"
+    ],
+    "repo": "brave/brave-search-mcp-server",
+    "stars": 1482,
+    "forks": 208,
+    "watchers": 8,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Slack",
+    "url": "https://docs.slack.dev/ai/slack-mcp-server/",
+    "description": "Official Slack MCP server for channels, messages, and workspace search.",
+    "tags": [
+      "official",
+      "slack",
+      "productivity"
+    ],
+    "repo": null,
+    "stars": null,
+    "forks": null,
+    "watchers": null,
+    "stats_refreshed_at": null
+  },
+  {
+    "name": "Google Drive",
+    "url": "https://developers.google.com/workspace/drive/api/guides/configure-mcp-server",
+    "description": "Official Google Drive MCP server for searching and reading Drive files.",
+    "tags": [
+      "official",
+      "google",
+      "productivity"
+    ],
+    "repo": null,
+    "stars": null,
+    "forks": null,
+    "watchers": null,
+    "stats_refreshed_at": null
+  },
+  {
+    "name": "Time",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/time",
+    "description": "Official MCP server for time and timezone conversion helpers.",
+    "tags": [
+      "official",
+      "utility",
+      "local"
+    ],
+    "repo": "modelcontextprotocol/servers",
+    "stars": 90957,
+    "forks": 11747,
+    "watchers": 636,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Everything",
+    "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/everything",
+    "description": "Official reference MCP server exercising the full protocol surface.",
+    "tags": [
+      "official",
+      "reference",
+      "devtools"
+    ],
+    "repo": "modelcontextprotocol/servers",
+    "stars": 90957,
+    "forks": 11747,
+    "watchers": 636,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "AWS Knowledge Base Retrieval",
+    "url": "https://github.com/awslabs/mcp/tree/main/src/bedrock-kb-retrieval-mcp-server",
+    "description": "AWS Labs MCP server for retrieving from Amazon Bedrock Knowledge Bases.",
+    "tags": [
+      "official",
+      "aws",
+      "search",
+      "rag"
+    ],
+    "repo": "awslabs/mcp",
+    "stars": 9748,
+    "forks": 1785,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Playwright",
+    "url": "https://github.com/microsoft/playwright-mcp",
+    "description": "Microsoft Playwright MCP server for reliable browser automation.",
+    "tags": [
+      "community",
+      "browser",
+      "automation",
+      "playwright"
+    ],
+    "repo": "microsoft/playwright-mcp",
+    "stars": 37766,
+    "forks": 3212,
+    "watchers": 152,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Chrome DevTools",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools MCP server for inspecting and controlling Chrome.",
+    "tags": [
+      "community",
+      "browser",
+      "devtools"
+    ],
+    "repo": "ChromeDevTools/chrome-devtools-mcp",
+    "stars": 52891,
+    "forks": 5383,
+    "watchers": 255,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Context7",
+    "url": "https://github.com/upstash/context7",
+    "description": "Upstash Context7 — pull up-to-date library docs into agent context.",
+    "tags": [
+      "community",
+      "docs",
+      "devtools"
+    ],
+    "repo": "upstash/context7",
+    "stars": 62609,
+    "forks": 3043,
+    "watchers": 163,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Supabase",
+    "url": "https://github.com/supabase-community/supabase-mcp",
+    "description": "Community MCP server for Supabase projects, SQL, and auth helpers.",
+    "tags": [
+      "community",
+      "database",
+      "supabase"
+    ],
+    "repo": "supabase-community/supabase-mcp",
+    "stars": 2927,
+    "forks": 414,
+    "watchers": 25,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Notion",
+    "url": "https://github.com/makenotion/notion-mcp-server",
+    "description": "Official Notion MCP server for pages, databases, and workspace search.",
+    "tags": [
+      "community",
+      "notion",
+      "productivity"
+    ],
+    "repo": "makenotion/notion-mcp-server",
+    "stars": 4655,
+    "forks": 634,
+    "watchers": 26,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Linear",
+    "url": "https://linear.app/docs/mcp",
+    "description": "Official Linear MCP server for issues, projects, and product workflow.",
+    "tags": [
+      "community",
+      "linear",
+      "productivity",
+      "devtools"
+    ],
+    "repo": null,
+    "stars": null,
+    "forks": null,
+    "watchers": null,
+    "stats_refreshed_at": null
+  },
+  {
+    "name": "Sentry",
+    "url": "https://github.com/getsentry/sentry-mcp",
+    "description": "Sentry MCP server for issues, errors, and project debugging context.",
+    "tags": [
+      "community",
+      "sentry",
+      "devops",
+      "devtools"
+    ],
+    "repo": "getsentry/sentry-mcp",
+    "stars": 905,
+    "forks": 155,
+    "watchers": 33,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Browserbase",
+    "url": "https://github.com/browserbase/mcp-server-browserbase",
+    "description": "Browserbase cloud browser MCP server for remote automation sessions.",
+    "tags": [
+      "community",
+      "browser",
+      "automation",
+      "cloud"
+    ],
+    "repo": "browserbase/mcp-server-browserbase",
+    "stars": 3411,
+    "forks": 372,
+    "watchers": 26,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Firecrawl",
+    "url": "https://github.com/mendableai/firecrawl-mcp-server",
+    "description": "Firecrawl MCP server for crawling and extracting clean web content.",
+    "tags": [
+      "community",
+      "web",
+      "search",
+      "crawl"
+    ],
+    "repo": "mendableai/firecrawl-mcp-server",
+    "stars": 7537,
+    "forks": 898,
+    "watchers": 44,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Slack Workspace",
+    "url": "https://github.com/zencoderai/slack-mcp-server",
+    "description": "Maintained Slack MCP server for channels, messages, and workspace actions.",
+    "tags": [
+      "community",
+      "slack",
+      "productivity"
+    ],
+    "repo": "zencoderai/slack-mcp-server",
+    "stars": 75,
+    "forks": 39,
+    "watchers": 0,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Cloudflare",
+    "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+    "description": "Official MCP server for Cloudflare Workers, KV, R2, D1, and account resources.",
+    "tags": [
+      "official",
+      "cloudflare",
+      "cloud"
+    ],
+    "repo": "cloudflare/mcp-server-cloudflare",
+    "stars": 4346,
+    "forks": 542,
+    "watchers": 47,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Stripe",
+    "url": "https://github.com/stripe/agent-toolkit",
+    "description": "Official Stripe agent toolkit and MCP server for payments and billing APIs.",
+    "tags": [
+      "official",
+      "stripe",
+      "payments"
+    ],
+    "repo": "stripe/agent-toolkit",
+    "stars": 1851,
+    "forks": 349,
+    "watchers": 21,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "PayPal",
+    "url": "https://github.com/paypal/agent-toolkit",
+    "description": "Official PayPal MCP server for payments, invoices, and account APIs.",
+    "tags": [
+      "official",
+      "paypal",
+      "payments"
+    ],
+    "repo": "paypal/agent-toolkit",
+    "stars": 195,
+    "forks": 114,
+    "watchers": 15,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Neon",
+    "url": "https://github.com/neondatabase/mcp-server-neon",
+    "description": "Official MCP server for Neon serverless Postgres projects and SQL.",
+    "tags": [
+      "official",
+      "database",
+      "postgres"
+    ],
+    "repo": "neondatabase/mcp-server-neon",
+    "stars": 649,
+    "forks": 129,
+    "watchers": 12,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "ClickHouse",
+    "url": "https://github.com/ClickHouse/mcp-clickhouse",
+    "description": "Official MCP server for querying ClickHouse databases.",
+    "tags": [
+      "official",
+      "database",
+      "clickhouse"
+    ],
+    "repo": "ClickHouse/mcp-clickhouse",
+    "stars": 879,
+    "forks": 208,
+    "watchers": 9,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Grafana",
+    "url": "https://github.com/grafana/mcp-grafana",
+    "description": "Official Grafana MCP server for dashboards, incidents, and datasource queries.",
+    "tags": [
+      "official",
+      "grafana",
+      "observability"
+    ],
+    "repo": "grafana/mcp-grafana",
+    "stars": 3524,
+    "forks": 460,
+    "watchers": 115,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "ElevenLabs",
+    "url": "https://github.com/elevenlabs/elevenlabs-mcp",
+    "description": "Official ElevenLabs MCP server for text-to-speech and voice tools.",
+    "tags": [
+      "official",
+      "audio",
+      "ai"
+    ],
+    "repo": "elevenlabs/elevenlabs-mcp",
+    "stars": 1534,
+    "forks": 256,
+    "watchers": 28,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Exa",
+    "url": "https://github.com/exa-labs/exa-mcp-server",
+    "description": "Exa search MCP server for AI-oriented web search and crawling.",
+    "tags": [
+      "official",
+      "search",
+      "web"
+    ],
+    "repo": "exa-labs/exa-mcp-server",
+    "stars": 5070,
+    "forks": 401,
+    "watchers": 26,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Tavily",
+    "url": "https://github.com/tavily-ai/tavily-mcp",
+    "description": "Tavily MCP server for real-time search, extract, and crawl.",
+    "tags": [
+      "official",
+      "search",
+      "web"
+    ],
+    "repo": "tavily-ai/tavily-mcp",
+    "stars": 2415,
+    "forks": 302,
+    "watchers": 7,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Perplexity",
+    "url": "https://github.com/ppl-ai/modelcontextprotocol",
+    "description": "Official Perplexity MCP server for Sonar web research.",
+    "tags": [
+      "official",
+      "search",
+      "ai"
+    ],
+    "repo": "ppl-ai/modelcontextprotocol",
+    "stars": 2549,
+    "forks": 378,
+    "watchers": 24,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Apify",
+    "url": "https://github.com/apify/apify-mcp-server",
+    "description": "Official Apify MCP server for running store actors and web scrapers.",
+    "tags": [
+      "official",
+      "web",
+      "crawl"
+    ],
+    "repo": "apify/apify-mcp-server",
+    "stars": 9402,
+    "forks": 293,
+    "watchers": 28,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "MongoDB",
+    "url": "https://github.com/mongodb-js/mongodb-mcp-server",
+    "description": "Official MongoDB MCP server for databases and Atlas clusters.",
+    "tags": [
+      "official",
+      "database",
+      "mongodb"
+    ],
+    "repo": "mongodb-js/mongodb-mcp-server",
+    "stars": 1140,
+    "forks": 295,
+    "watchers": 14,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Redis",
+    "url": "https://github.com/redis/mcp-redis",
+    "description": "Official Redis MCP server for managing and searching Redis data.",
+    "tags": [
+      "official",
+      "database",
+      "redis"
+    ],
+    "repo": "redis/mcp-redis",
+    "stars": 629,
+    "forks": 116,
+    "watchers": 6,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Elasticsearch",
+    "url": "https://github.com/elastic/mcp-server-elasticsearch",
+    "description": "Elastic MCP server for searching and managing Elasticsearch clusters.",
+    "tags": [
+      "official",
+      "search",
+      "elasticsearch"
+    ],
+    "repo": "elastic/mcp-server-elasticsearch",
+    "stars": 719,
+    "forks": 157,
+    "watchers": 14,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Qdrant",
+    "url": "https://github.com/qdrant/mcp-server-qdrant",
+    "description": "Official Qdrant MCP server for vector search and semantic memory.",
+    "tags": [
+      "official",
+      "database",
+      "vector"
+    ],
+    "repo": "qdrant/mcp-server-qdrant",
+    "stars": 1542,
+    "forks": 307,
+    "watchers": 14,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Chroma",
+    "url": "https://github.com/chroma-core/chroma-mcp",
+    "description": "Chroma MCP server for embeddings, vector search, and document storage.",
+    "tags": [
+      "official",
+      "database",
+      "vector"
+    ],
+    "repo": "chroma-core/chroma-mcp",
+    "stars": 598,
+    "forks": 116,
+    "watchers": 6,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Milvus",
+    "url": "https://github.com/zilliztech/mcp-server-milvus",
+    "description": "Milvus MCP server for vector search and collection management.",
+    "tags": [
+      "official",
+      "database",
+      "vector"
+    ],
+    "repo": "zilliztech/mcp-server-milvus",
+    "stars": 244,
+    "forks": 70,
+    "watchers": 7,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Neo4j",
+    "url": "https://github.com/neo4j-contrib/mcp-neo4j",
+    "description": "Neo4j MCP servers for Cypher queries and graph-backed memory.",
+    "tags": [
+      "official",
+      "database",
+      "graph"
+    ],
+    "repo": "neo4j-contrib/mcp-neo4j",
+    "stars": 985,
+    "forks": 261,
+    "watchers": 8,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "MotherDuck",
+    "url": "https://github.com/motherduckdb/mcp-server-motherduck",
+    "description": "MCP server for querying local DuckDB and MotherDuck.",
+    "tags": [
+      "official",
+      "database",
+      "duckdb"
+    ],
+    "repo": "motherduckdb/mcp-server-motherduck",
+    "stars": 525,
+    "forks": 86,
+    "watchers": 9,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Prisma",
+    "url": "https://github.com/prisma/mcp",
+    "description": "Prisma MCP server for managing Prisma Postgres databases and migrations.",
+    "tags": [
+      "official",
+      "database",
+      "prisma"
+    ],
+    "repo": "prisma/mcp",
+    "stars": 49,
+    "forks": 6,
+    "watchers": 1,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "dbt",
+    "url": "https://github.com/dbt-labs/dbt-mcp",
+    "description": "Official dbt MCP server for project metadata and the semantic layer.",
+    "tags": [
+      "official",
+      "analytics",
+      "dbt"
+    ],
+    "repo": "dbt-labs/dbt-mcp",
+    "stars": 607,
+    "forks": 136,
+    "watchers": 12,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "E2B",
+    "url": "https://github.com/e2b-dev/mcp-server",
+    "description": "E2B MCP server for running code in secure cloud sandboxes.",
+    "tags": [
+      "official",
+      "sandbox",
+      "devtools"
+    ],
+    "repo": "e2b-dev/mcp-server",
+    "stars": 394,
+    "forks": 72,
+    "watchers": 4,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Semgrep",
+    "url": "https://github.com/semgrep/mcp",
+    "description": "Official Semgrep MCP server for scanning code for security issues.",
+    "tags": [
+      "official",
+      "security",
+      "devtools"
+    ],
+    "repo": "semgrep/mcp",
+    "stars": 687,
+    "forks": 57,
+    "watchers": 5,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "SonarQube",
+    "url": "https://github.com/SonarSource/sonarqube-mcp-server",
+    "description": "Official SonarQube MCP server for code quality and security findings.",
+    "tags": [
+      "official",
+      "security",
+      "devtools"
+    ],
+    "repo": "SonarSource/sonarqube-mcp-server",
+    "stars": 653,
+    "forks": 101,
+    "watchers": 16,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Azure DevOps",
+    "url": "https://github.com/microsoft/azure-devops-mcp",
+    "description": "Microsoft's MCP server for Azure DevOps repos, pipelines, and work items.",
+    "tags": [
+      "official",
+      "azure",
+      "devtools"
+    ],
+    "repo": "microsoft/azure-devops-mcp",
+    "stars": 2040,
+    "forks": 659,
+    "watchers": 32,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "JetBrains",
+    "url": "https://github.com/JetBrains/mcp-jetbrains",
+    "description": "Official JetBrains MCP server for IntelliJ, PyCharm, WebStorm, and Android Studio.",
+    "tags": [
+      "official",
+      "ide",
+      "devtools"
+    ],
+    "repo": "JetBrains/mcp-jetbrains",
+    "stars": 963,
+    "forks": 77,
+    "watchers": 8,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Kubernetes",
+    "url": "https://github.com/Flux159/mcp-server-kubernetes",
+    "description": "MCP server for inspecting and managing Kubernetes clusters.",
+    "tags": [
+      "community",
+      "kubernetes",
+      "devops"
+    ],
+    "repo": "Flux159/mcp-server-kubernetes",
+    "stars": 1594,
+    "forks": 284,
+    "watchers": 12,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Mapbox",
+    "url": "https://github.com/mapbox/mcp-server",
+    "description": "Official Mapbox MCP server for geocoding, places, and directions.",
+    "tags": [
+      "official",
+      "maps",
+      "geo"
+    ],
+    "repo": "mapbox/mcp-server",
+    "stars": 358,
+    "forks": 44,
+    "watchers": 4,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Twilio",
+    "url": "https://github.com/twilio-labs/mcp",
+    "description": "Twilio MCP tools for messaging, phone numbers, and account APIs.",
+    "tags": [
+      "official",
+      "twilio",
+      "communications"
+    ],
+    "repo": "twilio-labs/mcp",
+    "stars": 112,
+    "forks": 41,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Xero",
+    "url": "https://github.com/XeroAPI/xero-mcp-server",
+    "description": "Official Xero MCP server for accounting data and business records.",
+    "tags": [
+      "official",
+      "accounting",
+      "finance"
+    ],
+    "repo": "XeroAPI/xero-mcp-server",
+    "stars": 371,
+    "forks": 199,
+    "watchers": 16,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Square",
+    "url": "https://github.com/square/square-mcp-server",
+    "description": "Official Square MCP server for payments and commerce APIs.",
+    "tags": [
+      "official",
+      "payments",
+      "commerce"
+    ],
+    "repo": "square/square-mcp-server",
+    "stars": 108,
+    "forks": 26,
+    "watchers": 2,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Webflow",
+    "url": "https://github.com/webflow/mcp-server",
+    "description": "Official Webflow MCP server for sites and CMS content.",
+    "tags": [
+      "official",
+      "webflow",
+      "cms"
+    ],
+    "repo": "webflow/mcp-server",
+    "stars": 140,
+    "forks": 35,
+    "watchers": 13,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Postman",
+    "url": "https://github.com/postmanlabs/postman-mcp-server",
+    "description": "Official Postman MCP server for collections, specs, and environments.",
+    "tags": [
+      "official",
+      "api",
+      "devtools"
+    ],
+    "repo": "postmanlabs/postman-mcp-server",
+    "stars": 316,
+    "forks": 87,
+    "watchers": 9,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Atlassian",
+    "url": "https://github.com/atlassian/atlassian-mcp-server",
+    "description": "Official Atlassian MCP server for Jira, Confluence, and Bitbucket.",
+    "tags": [
+      "official",
+      "jira",
+      "productivity"
+    ],
+    "repo": "atlassian/atlassian-mcp-server",
+    "stars": 1078,
+    "forks": 138,
+    "watchers": 13,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Atlassian Community",
+    "url": "https://github.com/sooperset/mcp-atlassian",
+    "description": "Community MCP server for Jira and Confluence Cloud or Data Center.",
+    "tags": [
+      "community",
+      "jira",
+      "confluence"
+    ],
+    "repo": "sooperset/mcp-atlassian",
+    "stars": 5964,
+    "forks": 1378,
+    "watchers": 23,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Terraform",
+    "url": "https://github.com/hashicorp/terraform-mcp-server",
+    "description": "Official HashiCorp MCP server for Terraform providers, modules, and docs.",
+    "tags": [
+      "official",
+      "terraform",
+      "iac"
+    ],
+    "repo": "hashicorp/terraform-mcp-server",
+    "stars": 1541,
+    "forks": 199,
+    "watchers": 13,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Google Cloud Run",
+    "url": "https://github.com/GoogleCloudPlatform/cloud-run-mcp",
+    "description": "Official MCP server for deploying apps to Google Cloud Run.",
+    "tags": [
+      "official",
+      "gcp",
+      "cloud"
+    ],
+    "repo": "GoogleCloudPlatform/cloud-run-mcp",
+    "stars": 630,
+    "forks": 123,
+    "watchers": 11,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "MCP Toolbox for Databases",
+    "url": "https://github.com/googleapis/genai-toolbox",
+    "description": "Google's open-source MCP server for secure database tools.",
+    "tags": [
+      "official",
+      "database",
+      "gcp"
+    ],
+    "repo": "googleapis/genai-toolbox",
+    "stars": 16555,
+    "forks": 1746,
+    "watchers": 94,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Hugging Face",
+    "url": "https://github.com/huggingface/hf-mcp-server",
+    "description": "Official Hugging Face MCP server for models, datasets, and spaces.",
+    "tags": [
+      "official",
+      "huggingface",
+      "ai"
+    ],
+    "repo": "huggingface/hf-mcp-server",
+    "stars": 301,
+    "forks": 104,
+    "watchers": 8,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Pinecone",
+    "url": "https://github.com/pinecone-io/assistant-mcp",
+    "description": "Official Pinecone Assistant MCP server for managed vector retrieval.",
+    "tags": [
+      "official",
+      "database",
+      "vector"
+    ],
+    "repo": "pinecone-io/assistant-mcp",
+    "stars": 45,
+    "forks": 9,
+    "watchers": 2,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Docker MCP Gateway",
+    "url": "https://github.com/docker/mcp-gateway",
+    "description": "Docker's MCP gateway and CLI plugin for running containerized MCP servers.",
+    "tags": [
+      "official",
+      "docker",
+      "devops"
+    ],
+    "repo": "docker/mcp-gateway",
+    "stars": 1588,
+    "forks": 283,
+    "watchers": 15,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "PostHog",
+    "url": "https://github.com/posthog/mcp",
+    "description": "Official PostHog MCP server for product analytics and feature flags.",
+    "tags": [
+      "official",
+      "analytics",
+      "devtools"
+    ],
+    "repo": "posthog/mcp",
+    "stars": 151,
+    "forks": 27,
+    "watchers": 12,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Resend",
+    "url": "https://github.com/resend/resend-mcp",
+    "description": "Official Resend MCP server for sending and inspecting transactional email.",
+    "tags": [
+      "official",
+      "email",
+      "devtools"
+    ],
+    "repo": "resend/resend-mcp",
+    "stars": 575,
+    "forks": 90,
+    "watchers": 5,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Axiom",
+    "url": "https://github.com/axiomhq/mcp-server-axiom",
+    "description": "Official Axiom MCP server for querying logs, traces, and events.",
+    "tags": [
+      "official",
+      "observability",
+      "logs"
+    ],
+    "repo": "axiomhq/mcp-server-axiom",
+    "stars": 60,
+    "forks": 14,
+    "watchers": 6,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Logfire",
+    "url": "https://github.com/pydantic/logfire-mcp",
+    "description": "Pydantic Logfire MCP server for OpenTelemetry traces and metrics.",
+    "tags": [
+      "official",
+      "observability",
+      "python"
+    ],
+    "repo": "pydantic/logfire-mcp",
+    "stars": 161,
+    "forks": 27,
+    "watchers": 4,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Langfuse",
+    "url": "https://github.com/langfuse/mcp-server-langfuse",
+    "description": "Langfuse MCP server for prompt management and LLM observability.",
+    "tags": [
+      "official",
+      "observability",
+      "llm"
+    ],
+    "repo": "langfuse/mcp-server-langfuse",
+    "stars": 173,
+    "forks": 37,
+    "watchers": 2,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "GrowthBook",
+    "url": "https://github.com/growthbook/growthbook-mcp",
+    "description": "Official GrowthBook MCP server for feature flags and experiments.",
+    "tags": [
+      "official",
+      "flags",
+      "devtools"
+    ],
+    "repo": "growthbook/growthbook-mcp",
+    "stars": 23,
+    "forks": 24,
+    "watchers": 9,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "LaunchDarkly",
+    "url": "https://github.com/launchdarkly/mcp-server",
+    "description": "Official LaunchDarkly MCP server for feature flags and targeting.",
+    "tags": [
+      "official",
+      "flags",
+      "devtools"
+    ],
+    "repo": "launchdarkly/mcp-server",
+    "stars": 27,
+    "forks": 17,
+    "watchers": 15,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Buildkite",
+    "url": "https://github.com/buildkite/buildkite-mcp-server",
+    "description": "Official Buildkite MCP server for pipelines and builds.",
+    "tags": [
+      "official",
+      "ci",
+      "devops"
+    ],
+    "repo": "buildkite/buildkite-mcp-server",
+    "stars": 54,
+    "forks": 38,
+    "watchers": 6,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "BrowserStack",
+    "url": "https://github.com/browserstack/mcp-server",
+    "description": "Official BrowserStack MCP server for cross-browser and device testing.",
+    "tags": [
+      "official",
+      "testing",
+      "browser"
+    ],
+    "repo": "browserstack/mcp-server",
+    "stars": 151,
+    "forks": 55,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Meilisearch",
+    "url": "https://github.com/meilisearch/meilisearch-mcp",
+    "description": "Official Meilisearch MCP server for full-text and semantic search.",
+    "tags": [
+      "official",
+      "search",
+      "database"
+    ],
+    "repo": "meilisearch/meilisearch-mcp",
+    "stars": 195,
+    "forks": 33,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Tinybird",
+    "url": "https://github.com/tinybirdco/mcp-tinybird",
+    "description": "Official Tinybird MCP server for serverless ClickHouse analytics.",
+    "tags": [
+      "official",
+      "analytics",
+      "clickhouse"
+    ],
+    "repo": "tinybirdco/mcp-tinybird",
+    "stars": 79,
+    "forks": 17,
+    "watchers": 2,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "SingleStore",
+    "url": "https://github.com/singlestore-labs/mcp-server-singlestore",
+    "description": "SingleStore MCP server for managing and querying the database platform.",
+    "tags": [
+      "official",
+      "database",
+      "sql"
+    ],
+    "repo": "singlestore-labs/mcp-server-singlestore",
+    "stars": 33,
+    "forks": 17,
+    "watchers": 2,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Couchbase",
+    "url": "https://github.com/Couchbase-Ecosystem/mcp-server-couchbase",
+    "description": "Couchbase MCP server for clusters, Capella, and document queries.",
+    "tags": [
+      "official",
+      "database",
+      "nosql"
+    ],
+    "repo": "Couchbase-Ecosystem/mcp-server-couchbase",
+    "stars": 35,
+    "forks": 35,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "StarRocks",
+    "url": "https://github.com/StarRocks/mcp-server-starrocks",
+    "description": "Official StarRocks MCP server for analytical SQL.",
+    "tags": [
+      "official",
+      "database",
+      "analytics"
+    ],
+    "repo": "StarRocks/mcp-server-starrocks",
+    "stars": 192,
+    "forks": 65,
+    "watchers": 7,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "GreptimeDB",
+    "url": "https://github.com/GreptimeTeam/greptimedb-mcp-server",
+    "description": "GreptimeDB MCP server for exploring time-series data.",
+    "tags": [
+      "official",
+      "database",
+      "observability"
+    ],
+    "repo": "GreptimeTeam/greptimedb-mcp-server",
+    "stars": 29,
+    "forks": 12,
+    "watchers": 7,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Hostinger",
+    "url": "https://github.com/hostinger/api-mcp-server",
+    "description": "Official Hostinger API MCP server for hosting account management.",
+    "tags": [
+      "official",
+      "hosting",
+      "cloud"
+    ],
+    "repo": "hostinger/api-mcp-server",
+    "stars": 157,
+    "forks": 58,
+    "watchers": 7,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "LINE",
+    "url": "https://github.com/line/line-bot-mcp-server",
+    "description": "Official LINE MCP server for the Messaging API and official accounts.",
+    "tags": [
+      "official",
+      "messaging",
+      "line"
+    ],
+    "repo": "line/line-bot-mcp-server",
+    "stars": 782,
+    "forks": 152,
+    "watchers": 10,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Mailgun",
+    "url": "https://github.com/mailgun/mailgun-mcp-server",
+    "description": "Official Mailgun MCP server for sending and tracking email.",
+    "tags": [
+      "official",
+      "email",
+      "devtools"
+    ],
+    "repo": "mailgun/mailgun-mcp-server",
+    "stars": 62,
+    "forks": 22,
+    "watchers": 12,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Unstructured",
+    "url": "https://github.com/Unstructured-IO/UNS-MCP",
+    "description": "Unstructured MCP server for document parsing and ETL workflows.",
+    "tags": [
+      "official",
+      "documents",
+      "etl"
+    ],
+    "repo": "Unstructured-IO/UNS-MCP",
+    "stars": 43,
+    "forks": 18,
+    "watchers": 9,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Vectorize",
+    "url": "https://github.com/vectorize-io/vectorize-mcp-server",
+    "description": "Official Vectorize MCP server for retrieval and file-to-markdown extraction.",
+    "tags": [
+      "official",
+      "rag",
+      "search"
+    ],
+    "repo": "vectorize-io/vectorize-mcp-server",
+    "stars": 115,
+    "forks": 26,
+    "watchers": 5,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Needle",
+    "url": "https://github.com/needle-ai/needle-mcp",
+    "description": "Needle MCP server for production RAG over your own documents.",
+    "tags": [
+      "official",
+      "rag",
+      "search"
+    ],
+    "repo": "needle-ai/needle-mcp",
+    "stars": 103,
+    "forks": 24,
+    "watchers": 5,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Globalping",
+    "url": "https://github.com/jsdelivr/globalping-mcp-server",
+    "description": "jsDelivr Globalping MCP server for ping, traceroute, DNS, and HTTP probes.",
+    "tags": [
+      "official",
+      "network",
+      "devops"
+    ],
+    "repo": "jsdelivr/globalping-mcp-server",
+    "stars": 64,
+    "forks": 10,
+    "watchers": 4,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Make",
+    "url": "https://github.com/integromat/make-mcp-server",
+    "description": "Official Make.com MCP server that turns scenarios into agent tools.",
+    "tags": [
+      "official",
+      "automation",
+      "productivity"
+    ],
+    "repo": "integromat/make-mcp-server",
+    "stars": 174,
+    "forks": 43,
+    "watchers": 9,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Plane",
+    "url": "https://github.com/makeplane/plane-mcp-server",
+    "description": "Official Plane MCP server for projects, work items, and cycles.",
+    "tags": [
+      "official",
+      "productivity",
+      "devtools"
+    ],
+    "repo": "makeplane/plane-mcp-server",
+    "stars": 335,
+    "forks": 184,
+    "watchers": 6,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Taskade",
+    "url": "https://github.com/taskade/mcp",
+    "description": "Official Taskade MCP server for tasks, projects, and workflows.",
+    "tags": [
+      "official",
+      "productivity",
+      "tasks"
+    ],
+    "repo": "taskade/mcp",
+    "stars": 165,
+    "forks": 52,
+    "watchers": 5,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Chargebee",
+    "url": "https://github.com/chargebee/agentkit",
+    "description": "Chargebee AgentKit MCP server for subscriptions and billing.",
+    "tags": [
+      "official",
+      "billing",
+      "payments"
+    ],
+    "repo": "chargebee/agentkit",
+    "stars": 16,
+    "forks": 7,
+    "watchers": 16,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Ramp",
+    "url": "https://github.com/ramp-public/ramp-mcp",
+    "description": "Ramp MCP server for spend data and corporate card insights.",
+    "tags": [
+      "official",
+      "finance",
+      "payments"
+    ],
+    "repo": "ramp-public/ramp-mcp",
+    "stars": 34,
+    "forks": 18,
+    "watchers": 0,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Twelve Data",
+    "url": "https://github.com/twelvedata/mcp",
+    "description": "Official Twelve Data MCP server for real-time and historical market data.",
+    "tags": [
+      "official",
+      "finance",
+      "markets"
+    ],
+    "repo": "twelvedata/mcp",
+    "stars": 82,
+    "forks": 26,
+    "watchers": 4,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "DexPaprika",
+    "url": "https://github.com/coinpaprika/dexpaprika-mcp",
+    "description": "CoinPaprika DexPaprika MCP server for DEX tokens, pools, and volumes.",
+    "tags": [
+      "official",
+      "crypto",
+      "markets"
+    ],
+    "repo": "coinpaprika/dexpaprika-mcp",
+    "stars": 43,
+    "forks": 17,
+    "watchers": 1,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Financial Datasets",
+    "url": "https://github.com/financial-datasets/mcp-server",
+    "description": "Stock-market MCP server for prices and fundamentals aimed at agents.",
+    "tags": [
+      "community",
+      "finance",
+      "markets"
+    ],
+    "repo": "financial-datasets/mcp-server",
+    "stars": 2300,
+    "forks": 350,
+    "watchers": 18,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Hyperbrowser",
+    "url": "https://github.com/hyperbrowserai/mcp",
+    "description": "Hyperbrowser MCP server for cloud browser automation sessions.",
+    "tags": [
+      "official",
+      "browser",
+      "automation"
+    ],
+    "repo": "hyperbrowserai/mcp",
+    "stars": 790,
+    "forks": 75,
+    "watchers": 9,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Bright Data",
+    "url": "https://github.com/brightdata/brightdata-mcp",
+    "description": "Official Bright Data MCP server for web access and data extraction.",
+    "tags": [
+      "official",
+      "web",
+      "crawl"
+    ],
+    "repo": "brightdata/brightdata-mcp",
+    "stars": 2662,
+    "forks": 331,
+    "watchers": 11,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Kagi",
+    "url": "https://github.com/kagisearch/kagimcp",
+    "description": "Official Kagi MCP server for search and related research tools.",
+    "tags": [
+      "official",
+      "search",
+      "web"
+    ],
+    "repo": "kagisearch/kagimcp",
+    "stars": 528,
+    "forks": 48,
+    "watchers": 11,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Ref",
+    "url": "https://github.com/ref-tools/ref-tools-mcp",
+    "description": "Ref MCP server that feeds current library docs into coding agents.",
+    "tags": [
+      "official",
+      "docs",
+      "devtools"
+    ],
+    "repo": "ref-tools/ref-tools-mcp",
+    "stars": 1175,
+    "forks": 71,
+    "watchers": 12,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Serena",
+    "url": "https://github.com/oraios/serena",
+    "description": "Coding MCP toolkit for semantic code search and symbol-aware edits.",
+    "tags": [
+      "community",
+      "devtools",
+      "code"
+    ],
+    "repo": "oraios/serena",
+    "stars": 29948,
+    "forks": 2040,
+    "watchers": 93,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "n8n",
+    "url": "https://github.com/czlonkowski/n8n-mcp",
+    "description": "MCP server that helps agents build and inspect n8n workflows.",
+    "tags": [
+      "community",
+      "automation",
+      "n8n"
+    ],
+    "repo": "czlonkowski/n8n-mcp",
+    "stars": 23032,
+    "forks": 3660,
+    "watchers": 161,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Browser MCP",
+    "url": "https://github.com/browsermcp/mcp",
+    "description": "MCP server that lets agents control a local browser.",
+    "tags": [
+      "community",
+      "browser",
+      "automation"
+    ],
+    "repo": "browsermcp/mcp",
+    "stars": 7154,
+    "forks": 586,
+    "watchers": 20,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Airtable",
+    "url": "https://github.com/domdomegg/airtable-mcp-server",
+    "description": "Community MCP server for reading and writing Airtable bases.",
+    "tags": [
+      "community",
+      "airtable",
+      "productivity"
+    ],
+    "repo": "domdomegg/airtable-mcp-server",
+    "stars": 457,
+    "forks": 133,
+    "watchers": 6,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Obsidian",
+    "url": "https://github.com/MarkusPfundstein/mcp-obsidian",
+    "description": "MCP server for Obsidian vaults via the Local REST API plugin.",
+    "tags": [
+      "community",
+      "notes",
+      "productivity"
+    ],
+    "repo": "MarkusPfundstein/mcp-obsidian",
+    "stars": 4455,
+    "forks": 507,
+    "watchers": 20,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Home Assistant",
+    "url": "https://github.com/voska/hass-mcp",
+    "description": "MCP server for controlling and querying a Home Assistant instance.",
+    "tags": [
+      "community",
+      "smarthome",
+      "iot"
+    ],
+    "repo": "voska/hass-mcp",
+    "stars": 344,
+    "forks": 54,
+    "watchers": 2,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Excel",
+    "url": "https://github.com/haris-musa/excel-mcp-server",
+    "description": "MCP server for reading and editing Excel workbooks.",
+    "tags": [
+      "community",
+      "excel",
+      "productivity"
+    ],
+    "repo": "haris-musa/excel-mcp-server",
+    "stars": 4209,
+    "forks": 470,
+    "watchers": 23,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Microsoft 365",
+    "url": "https://github.com/softeria/ms-365-mcp-server",
+    "description": "MCP server for Microsoft 365 mail, files, and calendar via Graph.",
+    "tags": [
+      "community",
+      "microsoft",
+      "productivity"
+    ],
+    "repo": "softeria/ms-365-mcp-server",
+    "stars": 1013,
+    "forks": 387,
+    "watchers": 8,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Trello",
+    "url": "https://github.com/m0xai/trello-mcp-server",
+    "description": "MCP server for Trello boards, lists, and cards.",
+    "tags": [
+      "community",
+      "trello",
+      "productivity"
+    ],
+    "repo": "m0xai/trello-mcp-server",
+    "stars": 54,
+    "forks": 42,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Todoist",
+    "url": "https://github.com/stanislavlysenko0912/todoist-mcp-server",
+    "description": "MCP server implementing the Todoist REST and Sync APIs.",
+    "tags": [
+      "community",
+      "todoist",
+      "productivity"
+    ],
+    "repo": "stanislavlysenko0912/todoist-mcp-server",
+    "stars": 63,
+    "forks": 16,
+    "watchers": 1,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Godot",
+    "url": "https://github.com/Coding-Solo/godot-mcp",
+    "description": "MCP server for launching and debugging Godot projects.",
+    "tags": [
+      "community",
+      "gamedev",
+      "godot"
+    ],
+    "repo": "Coding-Solo/godot-mcp",
+    "stars": 5910,
+    "forks": 478,
+    "watchers": 34,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Unity",
+    "url": "https://github.com/CoderGamester/mcp-unity",
+    "description": "MCP plugin for controlling the Unity Editor from coding agents.",
+    "tags": [
+      "community",
+      "gamedev",
+      "unity"
+    ],
+    "repo": "CoderGamester/mcp-unity",
+    "stars": 1917,
+    "forks": 245,
+    "watchers": 17,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "XcodeBuildMCP",
+    "url": "https://github.com/cameroncooke/XcodeBuildMCP",
+    "description": "MCP server for building, running, and testing Apple platform apps.",
+    "tags": [
+      "community",
+      "ios",
+      "devtools"
+    ],
+    "repo": "cameroncooke/XcodeBuildMCP",
+    "stars": 6454,
+    "forks": 321,
+    "watchers": 19,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Android ADB",
+    "url": "https://github.com/minhalvp/android-mcp-server",
+    "description": "MCP server for screenshots, UI layout, and ADB control of Android devices.",
+    "tags": [
+      "community",
+      "android",
+      "devtools"
+    ],
+    "repo": "minhalvp/android-mcp-server",
+    "stars": 811,
+    "forks": 95,
+    "watchers": 6,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Hugging Face Spaces",
+    "url": "https://github.com/evalstate/mcp-hfspace",
+    "description": "MCP server for running Hugging Face Spaces from an agent.",
+    "tags": [
+      "community",
+      "huggingface",
+      "ai"
+    ],
+    "repo": "evalstate/mcp-hfspace",
+    "stars": 389,
+    "forks": 59,
+    "watchers": 5,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Jina Reader",
+    "url": "https://github.com/wong2/mcp-jina-reader",
+    "description": "MCP server that fetches remote pages as Markdown via Jina Reader.",
+    "tags": [
+      "community",
+      "web",
+      "markdown"
+    ],
+    "repo": "wong2/mcp-jina-reader",
+    "stars": 47,
+    "forks": 8,
+    "watchers": 1,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "SearXNG",
+    "url": "https://github.com/ihor-sokoliuk/mcp-searxng",
+    "description": "MCP server for private web search through a SearXNG instance.",
+    "tags": [
+      "community",
+      "search",
+      "web"
+    ],
+    "repo": "ihor-sokoliuk/mcp-searxng",
+    "stars": 1275,
+    "forks": 163,
+    "watchers": 4,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "MySQL",
+    "url": "https://github.com/designcomputer/mysql_mcp_server",
+    "description": "MCP server for schema inspection and SQL against MySQL.",
+    "tags": [
+      "community",
+      "database",
+      "mysql"
+    ],
+    "repo": "designcomputer/mysql_mcp_server",
+    "stars": 1396,
+    "forks": 260,
+    "watchers": 8,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "DBHub",
+    "url": "https://github.com/bytebase/dbhub",
+    "description": "Bytebase DBHub MCP server for Postgres, MySQL, SQL Server, Oracle, and SQLite.",
+    "tags": [
+      "community",
+      "database",
+      "sql"
+    ],
+    "repo": "bytebase/dbhub",
+    "stars": 3596,
+    "forks": 313,
+    "watchers": 19,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Dolt",
+    "url": "https://github.com/dolthub/dolt-mcp",
+    "description": "Official Dolt MCP server for version-controlled SQL databases.",
+    "tags": [
+      "official",
+      "database",
+      "git"
+    ],
+    "repo": "dolthub/dolt-mcp",
+    "stars": 19,
+    "forks": 6,
+    "watchers": 0,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "OSV",
+    "url": "https://github.com/StacklokLabs/osv-mcp",
+    "description": "MCP server for querying the Open Source Vulnerabilities database.",
+    "tags": [
+      "community",
+      "security",
+      "devtools"
+    ],
+    "repo": "StacklokLabs/osv-mcp",
+    "stars": 42,
+    "forks": 7,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "AntV Chart",
+    "url": "https://github.com/antvis/mcp-server-chart",
+    "description": "MCP server that generates charts with AntV.",
+    "tags": [
+      "community",
+      "charts",
+      "visualization"
+    ],
+    "repo": "antvis/mcp-server-chart",
+    "stars": 4387,
+    "forks": 419,
+    "watchers": 20,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "ECharts",
+    "url": "https://github.com/hustcc/mcp-echarts",
+    "description": "MCP server that generates Apache ECharts visualizations.",
+    "tags": [
+      "community",
+      "charts",
+      "visualization"
+    ],
+    "repo": "hustcc/mcp-echarts",
+    "stars": 269,
+    "forks": 40,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Mermaid",
+    "url": "https://github.com/hustcc/mcp-mermaid",
+    "description": "MCP server that generates Mermaid diagrams from agent requests.",
+    "tags": [
+      "community",
+      "diagrams",
+      "devtools"
+    ],
+    "repo": "hustcc/mcp-mermaid",
+    "stars": 639,
+    "forks": 60,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Pandoc",
+    "url": "https://github.com/vivekVells/mcp-pandoc",
+    "description": "MCP server for converting documents between formats with Pandoc.",
+    "tags": [
+      "community",
+      "documents",
+      "devtools"
+    ],
+    "repo": "vivekVells/mcp-pandoc",
+    "stars": 582,
+    "forks": 62,
+    "watchers": 4,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Spotify",
+    "url": "https://github.com/varunneal/spotify-mcp",
+    "description": "Community MCP server for Spotify playback, search, and playlists.",
+    "tags": [
+      "community",
+      "spotify",
+      "audio"
+    ],
+    "repo": "varunneal/spotify-mcp",
+    "stars": 615,
+    "forks": 133,
+    "watchers": 6,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "AWS Documentation",
+    "url": "https://github.com/awslabs/mcp/tree/main/src/aws-documentation-mcp-server",
+    "description": "AWS Labs MCP server for searching and reading AWS documentation.",
+    "tags": [
+      "official",
+      "aws",
+      "docs"
+    ],
+    "repo": "awslabs/mcp",
+    "stars": 9748,
+    "forks": 1785,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "AWS Pricing",
+    "url": "https://github.com/awslabs/mcp/tree/main/src/aws-pricing-mcp-server",
+    "description": "AWS Labs MCP server for looking up AWS service pricing.",
+    "tags": [
+      "official",
+      "aws",
+      "finance"
+    ],
+    "repo": "awslabs/mcp",
+    "stars": 9748,
+    "forks": 1785,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "AWS DynamoDB",
+    "url": "https://github.com/awslabs/mcp/tree/main/src/dynamodb-mcp-server",
+    "description": "AWS Labs MCP server for Amazon DynamoDB tables and items.",
+    "tags": [
+      "official",
+      "aws",
+      "database"
+    ],
+    "repo": "awslabs/mcp",
+    "stars": 9748,
+    "forks": 1785,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "AWS EKS",
+    "url": "https://github.com/awslabs/mcp/tree/main/src/eks-mcp-server",
+    "description": "AWS Labs MCP server for Amazon EKS Kubernetes clusters.",
+    "tags": [
+      "official",
+      "aws",
+      "kubernetes"
+    ],
+    "repo": "awslabs/mcp",
+    "stars": 9748,
+    "forks": 1785,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "AWS CloudWatch",
+    "url": "https://github.com/awslabs/mcp/tree/main/src/cloudwatch-mcp-server",
+    "description": "AWS Labs MCP server for CloudWatch metrics, logs, and alarms.",
+    "tags": [
+      "official",
+      "aws",
+      "observability"
+    ],
+    "repo": "awslabs/mcp",
+    "stars": 9748,
+    "forks": 1785,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "AWS Location",
+    "url": "https://github.com/awslabs/mcp/tree/main/src/aws-location-mcp-server",
+    "description": "AWS Labs MCP server for Amazon Location Service maps and places.",
+    "tags": [
+      "official",
+      "aws",
+      "geo"
+    ],
+    "repo": "awslabs/mcp",
+    "stars": 9748,
+    "forks": 1785,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Zapier",
+    "url": "https://zapier.com/mcp",
+    "description": "Zapier's hosted MCP server connecting agents to thousands of apps.",
+    "tags": [
+      "official",
+      "automation",
+      "productivity"
+    ],
+    "repo": null,
+    "stars": null,
+    "forks": null,
+    "watchers": null,
+    "stats_refreshed_at": null
+  },
+  {
+    "name": "Apache Doris",
+    "url": "https://github.com/apache/doris-mcp-server",
+    "description": "Apache Doris MCP server for the real-time analytical database.",
+    "tags": [
+      "official",
+      "database",
+      "analytics"
+    ],
+    "repo": "apache/doris-mcp-server",
+    "stars": 348,
+    "forks": 102,
+    "watchers": 38,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Aiven",
+    "url": "https://github.com/Aiven-Open/mcp-aiven",
+    "description": "Official Aiven MCP server for Postgres, Kafka, ClickHouse, and OpenSearch.",
+    "tags": [
+      "official",
+      "cloud",
+      "database"
+    ],
+    "repo": "Aiven-Open/mcp-aiven",
+    "stars": 28,
+    "forks": 21,
+    "watchers": 9,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Box",
+    "url": "https://github.com/box-community/mcp-server-box",
+    "description": "Box community MCP server for content and Box AI.",
+    "tags": [
+      "community",
+      "storage",
+      "productivity"
+    ],
+    "repo": "box-community/mcp-server-box",
+    "stars": 101,
+    "forks": 46,
+    "watchers": 7,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Opik",
+    "url": "https://github.com/comet-ml/opik-mcp",
+    "description": "Comet Opik MCP server for LLM traces, prompts, and evaluation.",
+    "tags": [
+      "official",
+      "observability",
+      "llm"
+    ],
+    "repo": "comet-ml/opik-mcp",
+    "stars": 220,
+    "forks": 37,
+    "watchers": 5,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Fibery",
+    "url": "https://github.com/Fibery-inc/fibery-mcp-server",
+    "description": "Official Fibery MCP server for workspace queries and entities.",
+    "tags": [
+      "official",
+      "productivity",
+      "knowledge"
+    ],
+    "repo": "Fibery-inc/fibery-mcp-server",
+    "stars": 29,
+    "forks": 16,
+    "watchers": 5,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Keboola",
+    "url": "https://github.com/keboola/keboola-mcp-server",
+    "description": "Official Keboola MCP server for data workflows and analytics.",
+    "tags": [
+      "official",
+      "etl",
+      "analytics"
+    ],
+    "repo": "keboola/keboola-mcp-server",
+    "stars": 86,
+    "forks": 24,
+    "watchers": 14,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Snowflake",
+    "url": "https://github.com/isaacwasserman/mcp-snowflake-server",
+    "description": "Community MCP server for querying Snowflake warehouses.",
+    "tags": [
+      "community",
+      "database",
+      "analytics"
+    ],
+    "repo": "isaacwasserman/mcp-snowflake-server",
+    "stars": 186,
+    "forks": 84,
+    "watchers": 4,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://github.com/anaisbetts/mcp-youtube",
+    "description": "MCP server that fetches YouTube subtitles and transcripts.",
+    "tags": [
+      "community",
+      "youtube",
+      "video"
+    ],
+    "repo": "anaisbetts/mcp-youtube",
+    "stars": 546,
+    "forks": 64,
+    "watchers": 4,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Inspektor Gadget",
+    "url": "https://github.com/inspektor-gadget/ig-mcp-server",
+    "description": "MCP server for debugging Kubernetes workloads with eBPF gadgets.",
+    "tags": [
+      "community",
+      "kubernetes",
+      "observability"
+    ],
+    "repo": "inspektor-gadget/ig-mcp-server",
+    "stars": 27,
+    "forks": 6,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Oxylabs",
+    "url": "https://github.com/oxylabs/oxylabs-mcp",
+    "description": "Official Oxylabs MCP server for web scraping APIs.",
+    "tags": [
+      "official",
+      "web",
+      "crawl"
+    ],
+    "repo": "oxylabs/oxylabs-mcp",
+    "stars": 105,
+    "forks": 26,
+    "watchers": 4,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Crawlbase",
+    "url": "https://github.com/crawlbase/crawlbase-mcp",
+    "description": "Crawlbase MCP server for rendered web data and screenshots.",
+    "tags": [
+      "official",
+      "web",
+      "crawl"
+    ],
+    "repo": "crawlbase/crawlbase-mcp",
+    "stars": 58,
+    "forks": 14,
+    "watchers": 0,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Alpha Vantage",
+    "url": "https://mcp.alphavantage.co/",
+    "description": "Official Alpha Vantage MCP server for stocks, forex, crypto, and fundamentals.",
+    "tags": [
+      "official",
+      "finance",
+      "markets"
+    ],
+    "repo": null,
+    "stars": null,
+    "forks": null,
+    "watchers": null,
+    "stats_refreshed_at": null
+  },
+  {
+    "name": "GitLab",
+    "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gitlab",
+    "description": "Archived reference MCP server for GitLab projects, issues, and merge requests.",
+    "tags": [
+      "official",
+      "gitlab",
+      "devtools"
+    ],
+    "repo": "modelcontextprotocol/servers-archived",
+    "stars": 303,
+    "forks": 169,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Google Maps",
+    "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-maps",
+    "description": "Archived reference MCP server for Maps directions, geocoding, and places.",
+    "tags": [
+      "official",
+      "maps",
+      "google"
+    ],
+    "repo": "modelcontextprotocol/servers-archived",
+    "stars": 303,
+    "forks": 169,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Redis Reference",
+    "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/redis",
+    "description": "Archived reference MCP server for Redis key-value operations.",
+    "tags": [
+      "official",
+      "redis",
+      "database"
+    ],
+    "repo": "modelcontextprotocol/servers-archived",
+    "stars": 303,
+    "forks": 169,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Amazon ECS",
+    "url": "https://github.com/awslabs/mcp/tree/main/src/ecs-mcp-server",
+    "description": "Official MCP server for containerizing apps and deploying, troubleshooting, and managing them on Amazon ECS.",
+    "tags": [
+      "official",
+      "aws",
+      "containers",
+      "ecs"
+    ],
+    "repo": "awslabs/mcp",
+    "stars": 9748,
+    "forks": 1785,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "AWS IAM",
+    "url": "https://github.com/awslabs/mcp/tree/main/src/iam-mcp-server",
+    "description": "Official MCP server for managing AWS IAM users, roles, policies, and permissions.",
+    "tags": [
+      "official",
+      "aws",
+      "iam",
+      "security"
+    ],
+    "repo": "awslabs/mcp",
+    "stars": 9748,
+    "forks": 1785,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "AWS CloudTrail",
+    "url": "https://github.com/awslabs/mcp/tree/main/src/cloudtrail-mcp-server",
+    "description": "Official MCP server for querying CloudTrail events and CloudTrail Lake during security and audit investigations.",
+    "tags": [
+      "official",
+      "aws",
+      "security",
+      "observability"
+    ],
+    "repo": "awslabs/mcp",
+    "stars": 9748,
+    "forks": 1785,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Amazon Redshift",
+    "url": "https://github.com/awslabs/mcp/tree/main/src/redshift-mcp-server",
+    "description": "Official MCP server to discover, explore, and query Amazon Redshift clusters and serverless workgroups.",
+    "tags": [
+      "official",
+      "aws",
+      "database",
+      "redshift"
+    ],
+    "repo": "awslabs/mcp",
+    "stars": 9748,
+    "forks": 1785,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "AWS Billing and Cost Management",
+    "url": "https://github.com/awslabs/mcp/tree/main/src/billing-cost-management-mcp-server",
+    "description": "Official MCP server for AWS cost, usage, and Free Tier data from Billing and Cost Management.",
+    "tags": [
+      "official",
+      "aws",
+      "billing",
+      "finops"
+    ],
+    "repo": "awslabs/mcp",
+    "stars": 9748,
+    "forks": 1785,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "AWS Knowledge",
+    "url": "https://github.com/awslabs/mcp/tree/main/src/aws-knowledge-mcp-server",
+    "description": "Managed remote MCP server for current AWS documentation, code samples, and regional API availability.",
+    "tags": [
+      "official",
+      "aws",
+      "docs",
+      "knowledge"
+    ],
+    "repo": "awslabs/mcp",
+    "stars": 9748,
+    "forks": 1785,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Amazon DocumentDB",
+    "url": "https://github.com/awslabs/mcp/tree/main/src/documentdb-mcp-server",
+    "description": "Official MCP server for querying an Amazon DocumentDB cluster.",
+    "tags": [
+      "official",
+      "aws",
+      "database",
+      "documentdb"
+    ],
+    "repo": "awslabs/mcp",
+    "stars": 9748,
+    "forks": 1785,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "AWS Step Functions",
+    "url": "https://github.com/awslabs/mcp/tree/main/src/stepfunctions-tool-mcp-server",
+    "description": "Official MCP server that exposes AWS Step Functions state machines as tools an agent can run.",
+    "tags": [
+      "official",
+      "aws",
+      "workflow",
+      "serverless"
+    ],
+    "repo": "awslabs/mcp",
+    "stars": 9748,
+    "forks": 1785,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-02T22:00:19Z"
+  },
+  {
+    "name": "Azure MCP",
+    "url": "https://github.com/microsoft/mcp/tree/main/servers/Azure.Mcp.Server",
+    "description": "Official Microsoft MCP server for operating Azure resources from an AI agent.",
+    "tags": [
+      "official",
+      "azure",
+      "cloud",
+      "microsoft"
+    ],
+    "repo": "microsoft/mcp",
+    "stars": 3728,
+    "forks": 632,
+    "watchers": 45,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Microsoft Fabric",
+    "url": "https://github.com/microsoft/mcp/tree/main/servers/Fabric.Mcp.Server",
+    "description": "Official local MCP server for Microsoft Fabric public APIs, item definitions, and best practices.",
+    "tags": [
+      "official",
+      "microsoft",
+      "data",
+      "fabric"
+    ],
+    "repo": "microsoft/mcp",
+    "stars": 3728,
+    "forks": 632,
+    "watchers": 45,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Figma Context",
+    "url": "https://github.com/GLips/Figma-Context-MCP",
+    "description": "MCP server that supplies Figma file layout data so coding agents can implement designs.",
+    "tags": [
+      "design",
+      "figma",
+      "ui"
+    ],
+    "repo": "GLips/Figma-Context-MCP",
+    "stars": 15951,
+    "forks": 1264,
+    "watchers": 65,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "monday.com",
+    "url": "https://github.com/mondaycom/mcp",
+    "description": "Official monday.com MCP server for reading boards and taking action in monday.com workflows.",
+    "tags": [
+      "official",
+      "productivity",
+      "monday",
+      "project-management"
+    ],
+    "repo": "mondaycom/mcp",
+    "stars": 427,
+    "forks": 102,
+    "watchers": 6,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Render",
+    "url": "https://github.com/render-oss/render-mcp-server",
+    "description": "Official Render MCP server for managing services, deploys, and other Render resources.",
+    "tags": [
+      "official",
+      "hosting",
+      "render",
+      "cloud"
+    ],
+    "repo": "render-oss/render-mcp-server",
+    "stars": 175,
+    "forks": 91,
+    "watchers": 12,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Netlify",
+    "url": "https://github.com/netlify/netlify-mcp",
+    "description": "Official Netlify MCP server for creating projects and building, deploying, and managing sites.",
+    "tags": [
+      "official",
+      "hosting",
+      "netlify",
+      "cloud"
+    ],
+    "repo": "netlify/netlify-mcp",
+    "stars": 66,
+    "forks": 39,
+    "watchers": 7,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Heroku",
+    "url": "https://github.com/heroku/heroku-mcp-server",
+    "description": "Official Heroku Platform MCP server that drives the Heroku CLI for apps and config.",
+    "tags": [
+      "official",
+      "hosting",
+      "heroku",
+      "cloud"
+    ],
+    "repo": "heroku/heroku-mcp-server",
+    "stars": 81,
+    "forks": 30,
+    "watchers": 22,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Bitwarden",
+    "url": "https://github.com/bitwarden/mcp-server",
+    "description": "Official Bitwarden MCP server for vault access through the CLI and organization admin through the Public API.",
+    "tags": [
+      "official",
+      "security",
+      "secrets",
+      "bitwarden"
+    ],
+    "repo": "bitwarden/mcp-server",
+    "stars": 267,
+    "forks": 36,
+    "watchers": 2,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "HashiCorp Vault",
+    "url": "https://github.com/hashicorp/vault-mcp-server",
+    "description": "Official HashiCorp Vault MCP server for managing secrets and secret mounts.",
+    "tags": [
+      "official",
+      "security",
+      "secrets",
+      "vault"
+    ],
+    "repo": "hashicorp/vault-mcp-server",
+    "stars": 64,
+    "forks": 24,
+    "watchers": 0,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Google Cloud CLI",
+    "url": "https://github.com/googleapis/gcloud-mcp",
+    "description": "Official gcloud MCP server so agents can run Google Cloud CLI operations.",
+    "tags": [
+      "official",
+      "gcp",
+      "cloud",
+      "cli"
+    ],
+    "repo": "googleapis/gcloud-mcp",
+    "stars": 920,
+    "forks": 82,
+    "watchers": 5,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Appwrite",
+    "url": "https://github.com/appwrite/mcp",
+    "description": "Official Appwrite MCP server for databases, users, functions, teams, and storage.",
+    "tags": [
+      "official",
+      "backend",
+      "appwrite",
+      "baas"
+    ],
+    "repo": "appwrite/mcp",
+    "stars": 72,
+    "forks": 19,
+    "watchers": 10,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Discourse",
+    "url": "https://github.com/discourse/discourse-mcp",
+    "description": "Official Discourse MCP server for searching topics, reading posts, and managing forum categories.",
+    "tags": [
+      "official",
+      "community",
+      "discourse",
+      "forum"
+    ],
+    "repo": "discourse/discourse-mcp",
+    "stars": 76,
+    "forks": 44,
+    "watchers": 2,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "InfluxDB",
+    "url": "https://github.com/influxdata/influxdb3_mcp_server",
+    "description": "Official MCP server for InfluxDB 3 Core, Enterprise, and Cloud.",
+    "tags": [
+      "official",
+      "database",
+      "timeseries",
+      "influxdb"
+    ],
+    "repo": "influxdata/influxdb3_mcp_server",
+    "stars": 38,
+    "forks": 14,
+    "watchers": 0,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Salesforce",
+    "url": "https://github.com/salesforcecli/mcp",
+    "description": "Official Salesforce CLI MCP server for interacting with Salesforce orgs.",
+    "tags": [
+      "official",
+      "crm",
+      "salesforce"
+    ],
+    "repo": "salesforcecli/mcp",
+    "stars": 483,
+    "forks": 111,
+    "watchers": 14,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "DuckDuckGo",
+    "url": "https://github.com/nickclyde/duckduckgo-mcp-server",
+    "description": "MCP server for web search through DuckDuckGo, plus fetching and parsing page content.",
+    "tags": [
+      "search",
+      "web",
+      "duckduckgo"
+    ],
+    "repo": "nickclyde/duckduckgo-mcp-server",
+    "stars": 1517,
+    "forks": 191,
+    "watchers": 8,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Trivy",
+    "url": "https://github.com/aquasecurity/trivy-mcp",
+    "description": "Official Trivy MCP plugin that lets agents scan projects for vulnerabilities and misconfigurations.",
+    "tags": [
+      "official",
+      "security",
+      "scanning",
+      "trivy"
+    ],
+    "repo": "aquasecurity/trivy-mcp",
+    "stars": 50,
+    "forks": 8,
+    "watchers": 6,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Desktop Commander",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "description": "Local MCP server for terminal control, filesystem search, and diff-based file editing on the host.",
+    "tags": [
+      "local",
+      "desktop",
+      "terminal",
+      "filesystem"
+    ],
+    "repo": "wonderwhy-er/DesktopCommanderMCP",
+    "stars": 9907,
+    "forks": 1243,
+    "watchers": 111,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "iOS Simulator",
+    "url": "https://github.com/joshuayoes/ios-simulator-mcp",
+    "description": "MCP server for listing iOS simulators, driving UI interactions, and inspecting UI elements.",
+    "tags": [
+      "apple",
+      "ios",
+      "mobile",
+      "testing"
+    ],
+    "repo": "joshuayoes/ios-simulator-mcp",
+    "stars": 2186,
+    "forks": 98,
+    "watchers": 9,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Alibaba Cloud Ops",
+    "url": "https://github.com/aliyun/alibaba-cloud-ops-mcp-server",
+    "description": "Official Alibaba Cloud MCP server for ECS, Cloud Monitor, OOS, OSS, VPC, RDS, and related products.",
+    "tags": [
+      "official",
+      "cloud",
+      "alibaba"
+    ],
+    "repo": "aliyun/alibaba-cloud-ops-mcp-server",
+    "stars": 131,
+    "forks": 39,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "VictoriaLogs",
+    "url": "https://github.com/VictoriaMetrics/mcp-victorialogs",
+    "description": "MCP server for querying a VictoriaLogs instance and reading its APIs and documentation.",
+    "tags": [
+      "observability",
+      "logs",
+      "victoriametrics"
+    ],
+    "repo": "VictoriaMetrics/mcp-victorialogs",
+    "stars": 98,
+    "forks": 29,
+    "watchers": 3,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Cloudflare API",
+    "url": "https://github.com/cloudflare/mcp",
+    "description": "Official token-efficient MCP server for the Cloudflare API, including the hosted endpoint.",
+    "tags": [
+      "official",
+      "cloudflare",
+      "cloud",
+      "api"
+    ],
+    "repo": "cloudflare/mcp",
+    "stars": 915,
+    "forks": 126,
+    "watchers": 8,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Backblaze B2",
+    "url": "https://github.com/backblaze-labs/b2-mcp",
+    "description": "MCP server for Backblaze B2 object storage across the native B2 API and the S3-compatible data plane.",
+    "tags": [
+      "storage",
+      "backblaze",
+      "s3"
+    ],
+    "repo": "backblaze-labs/b2-mcp",
+    "stars": 41,
+    "forks": 6,
+    "watchers": 1,
+    "stats_refreshed_at": "2026-10-04T07:48:55Z"
+  },
+  {
+    "name": "Auth0",
+    "url": "https://github.com/auth0/auth0-mcp-server",
+    "description": "Official MCP server for the Auth0 Management API: create apps, deploy Actions, and query tenant logs.",
+    "tags": [
+      "official",
+      "auth",
+      "identity"
+    ],
+    "repo": "auth0/auth0-mcp-server",
+    "stars": 121,
+    "forks": 48,
+    "watchers": 15,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "MarkItDown",
+    "url": "https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp",
+    "description": "Microsoft's MCP server that converts PDFs, Office files, HTML, and more into Markdown for LLMs.",
+    "tags": [
+      "official",
+      "microsoft",
+      "documents",
+      "markdown"
+    ],
+    "repo": "microsoft/markitdown",
+    "stars": 188491,
+    "forks": 13957,
+    "watchers": 589,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Kubernetes & OpenShift",
+    "url": "https://github.com/containers/kubernetes-mcp-server",
+    "description": "Native Go MCP server for Kubernetes and OpenShift with pod, resource, Helm, and event tools.",
+    "tags": [
+      "kubernetes",
+      "devops",
+      "cloud"
+    ],
+    "repo": "containers/kubernetes-mcp-server",
+    "stars": 2144,
+    "forks": 447,
+    "watchers": 13,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Argo CD",
+    "url": "https://github.com/argoproj-labs/mcp-for-argocd",
+    "description": "MCP server for Argo CD to inspect, sync, and manage GitOps applications.",
+    "tags": [
+      "kubernetes",
+      "gitops",
+      "devops"
+    ],
+    "repo": "argoproj-labs/mcp-for-argocd",
+    "stars": 579,
+    "forks": 108,
+    "watchers": 6,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Contentful",
+    "url": "https://github.com/contentful/contentful-mcp-server",
+    "description": "Official MCP server for the Contentful Management API: entries, assets, content types, and publishing.",
+    "tags": [
+      "official",
+      "cms",
+      "content"
+    ],
+    "repo": "contentful/contentful-mcp-server",
+    "stars": 60,
+    "forks": 31,
+    "watchers": 1,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Docker",
+    "url": "https://github.com/ckreiling/mcp-server-docker",
+    "description": "Manage Docker containers, images, volumes, and networks in natural language.",
+    "tags": [
+      "docker",
+      "containers",
+      "devops"
+    ],
+    "repo": "ckreiling/mcp-server-docker",
+    "stars": 746,
+    "forks": 99,
+    "watchers": 10,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "GitGuardian",
+    "url": "https://github.com/GitGuardian/ggmcp",
+    "description": "Official GitGuardian MCP server to find and remediate hardcoded secrets across 600+ secret types.",
+    "tags": [
+      "official",
+      "security",
+      "secrets"
+    ],
+    "repo": "GitGuardian/ggmcp",
+    "stars": 37,
+    "forks": 15,
+    "watchers": 6,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "21st Magic",
+    "url": "https://github.com/21st-dev/magic-mcp",
+    "description": "Search and generate React/Tailwind UI components from your editor via the 21st.dev component library.",
+    "tags": [
+      "ui",
+      "frontend",
+      "react"
+    ],
+    "repo": "21st-dev/magic-mcp",
+    "stars": 5966,
+    "forks": 471,
+    "watchers": 29,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "OpenSearch",
+    "url": "https://github.com/opensearch-project/opensearch-mcp-server-py",
+    "description": "Official OpenSearch MCP server for searching indices, mappings, and cluster info.",
+    "tags": [
+      "official",
+      "search",
+      "database"
+    ],
+    "repo": "opensearch-project/opensearch-mcp-server-py",
+    "stars": 153,
+    "forks": 111,
+    "watchers": 8,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Weaviate",
+    "url": "https://github.com/weaviate/mcp-server-weaviate",
+    "description": "Official MCP server for the Weaviate vector database: store and search objects semantically.",
+    "tags": [
+      "official",
+      "vector-db",
+      "search"
+    ],
+    "repo": "weaviate/mcp-server-weaviate",
+    "stars": 162,
+    "forks": 43,
+    "watchers": 4,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Rootly",
+    "url": "https://github.com/rootlyhq/rootly-mcp-server",
+    "description": "Official Rootly MCP server for incident management: fetch, triage, and resolve incidents from your IDE.",
+    "tags": [
+      "official",
+      "incidents",
+      "observability"
+    ],
+    "repo": "rootlyhq/rootly-mcp-server",
+    "stars": 45,
+    "forks": 23,
+    "watchers": 2,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Snowflake Cortex",
+    "url": "https://github.com/Snowflake-Labs/mcp",
+    "description": "Snowflake's MCP server for Cortex AI search and analyst, object management, SQL, and semantic views.",
+    "tags": [
+      "official",
+      "snowflake",
+      "database",
+      "data"
+    ],
+    "repo": "Snowflake-Labs/mcp",
+    "stars": 298,
+    "forks": 108,
+    "watchers": 8,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Next.js DevTools",
+    "url": "https://github.com/vercel/next-devtools-mcp",
+    "description": "Vercel's MCP server that gives coding agents Next.js docs, runtime diagnostics, and upgrade helpers.",
+    "tags": [
+      "official",
+      "vercel",
+      "nextjs",
+      "frontend"
+    ],
+    "repo": "vercel/next-devtools-mcp",
+    "stars": 823,
+    "forks": 64,
+    "watchers": 1,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "arXiv",
+    "url": "https://github.com/blazickjp/arxiv-mcp-server",
+    "description": "Search, download, and read arXiv papers locally, with BibTeX export and topic watches.",
+    "tags": [
+      "research",
+      "papers",
+      "search"
+    ],
+    "repo": "blazickjp/arxiv-mcp-server",
+    "stars": 3190,
+    "forks": 256,
+    "watchers": 8,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Blender",
+    "url": "https://github.com/ahujasid/mcp-for-blender",
+    "description": "Control Blender 3D from any LLM: create and modify scenes, objects, and materials.",
+    "tags": [
+      "3d",
+      "blender",
+      "creative"
+    ],
+    "repo": "ahujasid/mcp-for-blender",
+    "stars": 29991,
+    "forks": 2721,
+    "watchers": 205,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Ableton Live",
+    "url": "https://github.com/ahujasid/ableton-mcp",
+    "description": "Control Ableton Live with an LLM to create tracks, arrange clips, and compose music.",
+    "tags": [
+      "music",
+      "audio",
+      "creative"
+    ],
+    "repo": "ahujasid/ableton-mcp",
+    "stars": 3137,
+    "forks": 423,
+    "watchers": 46,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "GitMCP",
+    "url": "https://github.com/idosal/git-mcp",
+    "description": "Free remote MCP server that turns any GitHub project's docs and code into context to cut hallucinations.",
+    "tags": [
+      "docs",
+      "github",
+      "remote"
+    ],
+    "repo": "idosal/git-mcp",
+    "stars": 8450,
+    "forks": 751,
+    "watchers": 47,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Slack (korotovsky)",
+    "url": "https://github.com/korotovsky/slack-mcp-server",
+    "description": "Feature-rich Slack MCP server with DMs, group DMs, smart history fetch, and no-permission stealth mode.",
+    "tags": [
+      "slack",
+      "chat",
+      "communication"
+    ],
+    "repo": "korotovsky/slack-mcp-server",
+    "stars": 1854,
+    "forks": 381,
+    "watchers": 7,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Google Workspace",
+    "url": "https://github.com/taylorwilsdon/google_workspace_mcp",
+    "description": "Comprehensive MCP server for Gmail, Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, and Drive.",
+    "tags": [
+      "google",
+      "productivity",
+      "email",
+      "calendar"
+    ],
+    "repo": "taylorwilsdon/google_workspace_mcp",
+    "stars": 3281,
+    "forks": 1028,
+    "watchers": 19,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Google Calendar",
+    "url": "https://github.com/nspady/google-calendar-mcp",
+    "description": "MCP server to list, create, update, and search Google Calendar events across calendars.",
+    "tags": [
+      "google",
+      "calendar",
+      "productivity"
+    ],
+    "repo": "nspady/google-calendar-mcp",
+    "stars": 1194,
+    "forks": 332,
+    "watchers": 5,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Postgres MCP Pro",
+    "url": "https://github.com/crystaldba/postgres-mcp",
+    "description": "Postgres MCP server with configurable read/write access, index tuning, and health analysis.",
+    "tags": [
+      "postgres",
+      "database",
+      "sql"
+    ],
+    "repo": "crystaldba/postgres-mcp",
+    "stars": 3369,
+    "forks": 382,
+    "watchers": 12,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Ghidra",
+    "url": "https://github.com/LaurieWired/GhidraMCP",
+    "description": "MCP server that lets LLMs decompile and analyze binaries through Ghidra.",
+    "tags": [
+      "security",
+      "reverse-engineering"
+    ],
+    "repo": "LaurieWired/GhidraMCP",
+    "stars": 10280,
+    "forks": 1056,
+    "watchers": 81,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "IDA Pro",
+    "url": "https://github.com/mrexodia/ida-pro-mcp",
+    "description": "Bridge IDA Pro with LLMs for AI-assisted reverse engineering via MCP.",
+    "tags": [
+      "security",
+      "reverse-engineering"
+    ],
+    "repo": "mrexodia/ida-pro-mcp",
+    "stars": 12474,
+    "forks": 1475,
+    "watchers": 59,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Burp Suite",
+    "url": "https://github.com/PortSwigger/mcp-server",
+    "description": "Official PortSwigger MCP server that connects Burp Suite to AI clients for web security testing.",
+    "tags": [
+      "official",
+      "security",
+      "pentest"
+    ],
+    "repo": "PortSwigger/mcp-server",
+    "stars": 1212,
+    "forks": 199,
+    "watchers": 6,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Playwright (ExecuteAutomation)",
+    "url": "https://github.com/executeautomation/mcp-playwright",
+    "description": "Community Playwright MCP server for browser automation, screenshots, and API testing.",
+    "tags": [
+      "browser",
+      "automation",
+      "testing"
+    ],
+    "repo": "executeautomation/mcp-playwright",
+    "stars": 5662,
+    "forks": 538,
+    "watchers": 33,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "WhatsApp",
+    "url": "https://github.com/lharries/whatsapp-mcp",
+    "description": "Search and read your personal WhatsApp messages and contacts, and send messages, via MCP.",
+    "tags": [
+      "whatsapp",
+      "chat",
+      "communication"
+    ],
+    "repo": "lharries/whatsapp-mcp",
+    "stars": 6398,
+    "forks": 1363,
+    "watchers": 54,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "MySQL (benborla)",
+    "url": "https://github.com/benborla/mcp-server-mysql",
+    "description": "Node MCP server for MySQL with schema inspection and read-only queries by default.",
+    "tags": [
+      "mysql",
+      "database",
+      "sql"
+    ],
+    "repo": "benborla/mcp-server-mysql",
+    "stars": 2141,
+    "forks": 253,
+    "watchers": 19,
+    "stats_refreshed_at": "2026-10-05T05:50:33Z"
+  },
+  {
+    "name": "Codebase Memory",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "description": "Indexes a codebase into a persistent knowledge graph so agents can query code structure fast with far fewer tokens. Single static binary.",
+    "tags": [
+      "code-intelligence",
+      "knowledge-graph",
+      "developer-tools"
+    ],
+    "repo": "DeusData/codebase-memory-mcp",
+    "stars": 45848,
+    "forks": 3772,
+    "watchers": 183,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "Task Master",
+    "url": "https://github.com/eyaltoledano/claude-task-master",
+    "description": "AI task-management system that breaks PRDs into tasks and tracks them from Cursor, Windsurf, Claude Code and other MCP clients.",
+    "tags": [
+      "tasks",
+      "project-management",
+      "coding-agents"
+    ],
+    "repo": "eyaltoledano/claude-task-master",
+    "stars": 28159,
+    "forks": 2616,
+    "watchers": 164,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "Mobile MCP",
+    "url": "https://github.com/mobile-next/mobile-mcp",
+    "description": "Automate and scrape iOS and Android apps on simulators, emulators and real devices through MCP.",
+    "tags": [
+      "mobile",
+      "ios",
+      "android",
+      "automation"
+    ],
+    "repo": "mobile-next/mobile-mcp",
+    "stars": 8708,
+    "forks": 775,
+    "watchers": 49,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "Cognee",
+    "url": "https://github.com/topoteretes/cognee/tree/dev/cognee-mcp",
+    "description": "Long-term memory for agents built on graph and vector stores, with ingestion from many data sources.",
+    "tags": [
+      "memory",
+      "knowledge-graph",
+      "rag"
+    ],
+    "repo": "topoteretes/cognee",
+    "stars": 31420,
+    "forks": 3216,
+    "watchers": 114,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "Klavis",
+    "url": "https://github.com/Klavis-AI/klavis",
+    "description": "Open-source MCP integration platform with hosted and self-hosted servers for dozens of SaaS apps.",
+    "tags": [
+      "integrations",
+      "gateway",
+      "saas"
+    ],
+    "repo": "Klavis-AI/klavis",
+    "stars": 5805,
+    "forks": 564,
+    "watchers": 163,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "Unity MCP (IvanMurzak)",
+    "url": "https://github.com/IvanMurzak/Unity-MCP",
+    "description": "MCP tools, skills and CLI for the Unity Editor and runtime; any C# method can be exposed as a tool.",
+    "tags": [
+      "unity",
+      "gamedev",
+      "csharp"
+    ],
+    "repo": "IvanMurzak/Unity-MCP",
+    "stars": 4387,
+    "forks": 387,
+    "watchers": 30,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "CodeGraphContext",
+    "url": "https://github.com/CodeGraphContext/CodeGraphContext",
+    "description": "MCP server and CLI that indexes local code into a graph database to give assistants call-graph and dependency context.",
+    "tags": [
+      "code-intelligence",
+      "graph",
+      "developer-tools"
+    ],
+    "repo": "CodeGraphContext/CodeGraphContext",
+    "stars": 4242,
+    "forks": 834,
+    "watchers": 24,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "Basic Memory",
+    "url": "https://github.com/basicmachines-co/basic-memory",
+    "description": "Local-first memory for AI conversations stored as Markdown files that both you and the model can read and edit.",
+    "tags": [
+      "memory",
+      "markdown",
+      "notes"
+    ],
+    "repo": "basicmachines-co/basic-memory",
+    "stars": 4102,
+    "forks": 300,
+    "watchers": 15,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "Container Use",
+    "url": "https://github.com/dagger/container-use",
+    "description": "Isolated container development environments so multiple coding agents can work safely in parallel. By Dagger.",
+    "tags": [
+      "containers",
+      "coding-agents",
+      "sandbox"
+    ],
+    "repo": "dagger/container-use",
+    "stars": 4059,
+    "forks": 210,
+    "watchers": 12,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "DaVinci Resolve",
+    "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+    "description": "Control DaVinci Resolve Studio from an MCP client: projects, timelines, media pool, color and rendering.",
+    "tags": [
+      "video",
+      "editing",
+      "creative"
+    ],
+    "repo": "samuelgursky/davinci-resolve-mcp",
+    "stars": 3364,
+    "forks": 392,
+    "watchers": 29,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "shadcn/ui",
+    "url": "https://github.com/Jpisnice/shadcn-ui-mcp-server",
+    "description": "Gives models context on shadcn/ui component structure, usage and installation for React, Svelte 5, Vue and React Native.",
+    "tags": [
+      "ui",
+      "components",
+      "frontend"
+    ],
+    "repo": "Jpisnice/shadcn-ui-mcp-server",
+    "stars": 3024,
+    "forks": 312,
+    "watchers": 21,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "Markdownify",
+    "url": "https://github.com/zcaceres/markdownify-mcp",
+    "description": "Convert PDFs, images, audio, web pages, Office files and more into Markdown.",
+    "tags": [
+      "markdown",
+      "conversion",
+      "documents"
+    ],
+    "repo": "zcaceres/markdownify-mcp",
+    "stars": 2999,
+    "forks": 254,
+    "watchers": 10,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "JADX AI",
+    "url": "https://github.com/zinja-coder/jadx-ai-mcp",
+    "description": "JADX decompiler plugin that exposes Android APK reverse-engineering to MCP clients.",
+    "tags": [
+      "android",
+      "reverse-engineering",
+      "security"
+    ],
+    "repo": "zinja-coder/jadx-ai-mcp",
+    "stars": 2855,
+    "forks": 262,
+    "watchers": 9,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "MetaMCP",
+    "url": "https://github.com/metatool-ai/metamcp",
+    "description": "Self-hosted MCP aggregator, orchestrator, middleware and gateway in one Docker deployment.",
+    "tags": [
+      "gateway",
+      "aggregator",
+      "self-hosted"
+    ],
+    "repo": "metatool-ai/metamcp",
+    "stars": 2692,
+    "forks": 436,
+    "watchers": 24,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "MCP Memory Service",
+    "url": "https://github.com/doobidoo/mcp-memory-service",
+    "description": "Persistent semantic memory for Claude and agent pipelines with a REST API, knowledge graph and automatic consolidation.",
+    "tags": [
+      "memory",
+      "semantic-search",
+      "agents"
+    ],
+    "repo": "doobidoo/mcp-memory-service",
+    "stars": 1985,
+    "forks": 340,
+    "watchers": 12,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "Anyquery",
+    "url": "https://github.com/julien040/anyquery",
+    "description": "Query 60+ apps and files (GitHub, Notion, Airtable and more) with SQL, exposed to any LLM via MCP.",
+    "tags": [
+      "sql",
+      "integrations",
+      "data"
+    ],
+    "repo": "julien040/anyquery",
+    "stars": 1782,
+    "forks": 137,
+    "watchers": 15,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "Telegram",
+    "url": "https://github.com/chigwell/telegram-mcp",
+    "description": "Telethon-based server to read chats, manage groups and send or edit messages, media and contacts on Telegram.",
+    "tags": [
+      "telegram",
+      "chat",
+      "communication"
+    ],
+    "repo": "chigwell/telegram-mcp",
+    "stars": 1771,
+    "forks": 454,
+    "watchers": 7,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "MCPVault (Obsidian)",
+    "url": "https://github.com/bitbonsai/mcpvault",
+    "description": "Lightweight server for safe read and write access to an Obsidian vault.",
+    "tags": [
+      "obsidian",
+      "notes",
+      "knowledge-base"
+    ],
+    "repo": "bitbonsai/mcpvault",
+    "stars": 1678,
+    "forks": 130,
+    "watchers": 9,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "ROS",
+    "url": "https://github.com/robotmcp/ros-mcp-server",
+    "description": "Connect LLMs to robots through ROS and ROS 2: topics, services and actions.",
+    "tags": [
+      "robotics",
+      "ros",
+      "hardware"
+    ],
+    "repo": "robotmcp/ros-mcp-server",
+    "stars": 1485,
+    "forks": 213,
+    "watchers": 21,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "VoiceMode",
+    "url": "https://github.com/mbailey/voicemode",
+    "description": "Natural two-way voice conversations with Claude Code and other MCP clients using local or cloud speech.",
+    "tags": [
+      "voice",
+      "speech",
+      "audio"
+    ],
+    "repo": "mbailey/voicemode",
+    "stars": 1387,
+    "forks": 195,
+    "watchers": 8,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "Jupyter",
+    "url": "https://github.com/datalayer/jupyter-mcp-server",
+    "description": "Read, edit and execute Jupyter notebook cells in real time from an MCP client.",
+    "tags": [
+      "jupyter",
+      "notebooks",
+      "data-science"
+    ],
+    "repo": "datalayer/jupyter-mcp-server",
+    "stars": 1296,
+    "forks": 203,
+    "watchers": 12,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "Meta Ads",
+    "url": "https://github.com/pipeboard-co/meta-ads-mcp",
+    "description": "Manage and analyze Facebook and Instagram ad campaigns, ad sets and insights through MCP.",
+    "tags": [
+      "advertising",
+      "marketing",
+      "meta"
+    ],
+    "repo": "pipeboard-co/meta-ads-mcp",
+    "stars": 1293,
+    "forks": 278,
+    "watchers": 14,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "MCPJungle",
+    "url": "https://github.com/mcpjungle/MCPJungle",
+    "description": "Self-hosted registry and gateway to manage and connect all your MCP servers in one place.",
+    "tags": [
+      "gateway",
+      "registry",
+      "self-hosted"
+    ],
+    "repo": "mcpjungle/MCPJungle",
+    "stars": 1288,
+    "forks": 164,
+    "watchers": 8,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "Google Sheets",
+    "url": "https://github.com/xing5/mcp-google-sheets",
+    "description": "Create, read and modify Google Sheets and Drive spreadsheets from an MCP client.",
+    "tags": [
+      "google-sheets",
+      "spreadsheets",
+      "google"
+    ],
+    "repo": "xing5/mcp-google-sheets",
+    "stars": 1011,
+    "forks": 252,
+    "watchers": 10,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "Terminator",
+    "url": "https://github.com/mediar-ai/terminator",
+    "description": "Playwright-style desktop automation for Windows computer use via accessibility APIs.",
+    "tags": [
+      "windows",
+      "desktop-automation",
+      "computer-use"
+    ],
+    "repo": "mediar-ai/terminator",
+    "stars": 1648,
+    "forks": 217,
+    "watchers": 19,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "Open-WebSearch",
+    "url": "https://github.com/Aas-ee/open-webSearch",
+    "description": "Multi-engine web search and page fetching for agents with no API keys required.",
+    "tags": [
+      "search",
+      "web",
+      "free"
+    ],
+    "repo": "Aas-ee/open-webSearch",
+    "stars": 1843,
+    "forks": 183,
+    "watchers": 10,
+    "stats_refreshed_at": "2026-10-06T05:53:50Z"
+  },
+  {
+    "name": "FastMCP",
+    "url": "https://github.com/PrefectHQ/fastmcp",
+    "description": "The Pythonic framework for building MCP servers and clients, with auth, composition, and deployment helpers.",
+    "tags": [
+      "framework",
+      "python",
+      "devtools"
+    ],
+    "repo": "PrefectHQ/fastmcp",
+    "stars": 27988,
+    "forks": 2439,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Lightpanda",
+    "url": "https://github.com/lightpanda-io/browser",
+    "description": "Headless browser built from scratch for AI agents and automation, with a native MCP server.",
+    "tags": [
+      "browser",
+      "automation",
+      "web"
+    ],
+    "repo": "lightpanda-io/browser",
+    "stars": 36044,
+    "forks": 1703,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "UI-TARS Desktop",
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "description": "ByteDance's open multimodal agent stack for GUI and browser control, built on MCP.",
+    "tags": [
+      "computer-use",
+      "desktop-automation",
+      "browser"
+    ],
+    "repo": "bytedance/UI-TARS-desktop",
+    "stars": 39206,
+    "forks": 3970,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "description": "Agent memory that learns: long-term recall and reflection exposed to agents over MCP.",
+    "tags": [
+      "memory",
+      "rag",
+      "ai"
+    ],
+    "repo": "vectorize-io/hindsight",
+    "stars": 46395,
+    "forks": 5947,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Wigolo",
+    "url": "https://github.com/KnockOutEZ/wigolo",
+    "description": "Local-first search, fetch, crawl, and research for coding agents over MCP, no API keys needed.",
+    "tags": [
+      "search",
+      "crawl",
+      "local"
+    ],
+    "repo": "KnockOutEZ/wigolo",
+    "stars": 5445,
+    "forks": 445,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Agent Device",
+    "url": "https://github.com/callstack/agent-device",
+    "description": "Mobile app automation and verification for coding agents on iOS and Android simulators and devices.",
+    "tags": [
+      "ios",
+      "android",
+      "testing"
+    ],
+    "repo": "callstack/agent-device",
+    "stars": 4907,
+    "forks": 328,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Radar",
+    "url": "https://github.com/skyhook-io/radar",
+    "description": "Open-source Kubernetes UI with a built-in MCP server so agents can see what's broken and why.",
+    "tags": [
+      "kubernetes",
+      "devops",
+      "observability"
+    ],
+    "repo": "skyhook-io/radar",
+    "stars": 3666,
+    "forks": 240,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Metorial",
+    "url": "https://github.com/metorial/metorial",
+    "description": "Connect any model to 1,200+ integrations through hosted or self-hosted MCP servers.",
+    "tags": [
+      "gateway",
+      "integrations",
+      "hosting"
+    ],
+    "repo": "metorial/metorial",
+    "stars": 3364,
+    "forks": 368,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Webclaw",
+    "url": "https://github.com/0xMassi/webclaw",
+    "description": "Fast local-first web content extraction for LLMs in Rust: scrape, crawl, and extract structured data.",
+    "tags": [
+      "crawl",
+      "web",
+      "local"
+    ],
+    "repo": "0xMassi/webclaw",
+    "stars": 2369,
+    "forks": 236,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "IBM MCP CLI",
+    "url": "https://github.com/IBM/mcp-cli",
+    "description": "IBM's command-line client for chatting with and exercising MCP servers across LLM providers.",
+    "tags": [
+      "client",
+      "cli",
+      "devtools"
+    ],
+    "repo": "IBM/mcp-cli",
+    "stars": 2026,
+    "forks": 309,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "MeiGen AI Design",
+    "url": "https://github.com/jau123/MeiGen-AI-Design-MCP",
+    "description": "Image and video generation via GPT Image, Seedance, and ComfyUI with a 1,400+ prompt library.",
+    "tags": [
+      "creative",
+      "image",
+      "video"
+    ],
+    "repo": "jau123/MeiGen-AI-Design-MCP",
+    "stars": 1779,
+    "forks": 234,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Token Savior",
+    "url": "https://github.com/Mibayy/token-savior",
+    "description": "Code-navigation MCP server that cuts coding-agent token use with structural symbol lookup.",
+    "tags": [
+      "devtools",
+      "code",
+      "context"
+    ],
+    "repo": "Mibayy/token-savior",
+    "stars": 1163,
+    "forks": 103,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "CloudBase AI Toolkit",
+    "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit",
+    "description": "Tencent CloudBase backend for coding agents: database, auth, and cloud functions via MCP.",
+    "tags": [
+      "official",
+      "cloud",
+      "database"
+    ],
+    "repo": "TencentCloudBase/CloudBase-AI-Toolkit",
+    "stars": 1132,
+    "forks": 147,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "CRW",
+    "url": "https://github.com/fastcrw/crw",
+    "description": "Lightweight Rust web scraper, crawler, and search API with an MCP server; a Firecrawl alternative.",
+    "tags": [
+      "crawl",
+      "search",
+      "web"
+    ],
+    "repo": "fastcrw/crw",
+    "stars": 1105,
+    "forks": 91,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Figwright",
+    "url": "https://github.com/awdr74100/figwright",
+    "description": "Free two-way Figma MCP server: turn designs into code and push code back to the canvas.",
+    "tags": [
+      "design",
+      "figma",
+      "frontend"
+    ],
+    "repo": "awdr74100/figwright",
+    "stars": 977,
+    "forks": 53,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "OpenTabs",
+    "url": "https://github.com/opentabs-dev/opentabs",
+    "description": "Lets agents call web apps' own APIs through your signed-in browser tabs instead of clicking.",
+    "tags": [
+      "browser",
+      "automation",
+      "productivity"
+    ],
+    "repo": "opentabs-dev/opentabs",
+    "stars": 967,
+    "forks": 96,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Octocode",
+    "url": "https://github.com/bgauryy/octocode",
+    "description": "Code research for agents across your codebase and all of GitHub, with cited context.",
+    "tags": [
+      "github",
+      "code",
+      "search"
+    ],
+    "repo": "bgauryy/octocode",
+    "stars": 946,
+    "forks": 78,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "AnythingMCP",
+    "url": "https://github.com/HelpCode-ai/anythingmcp",
+    "description": "Self-hosted MCP gateway that turns REST/OpenAPI, SOAP, GraphQL, OData, or SQL APIs into tools.",
+    "tags": [
+      "gateway",
+      "api",
+      "self-hosted"
+    ],
+    "repo": "HelpCode-ai/anythingmcp",
+    "stars": 974,
+    "forks": 88,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Notion (suekou)",
+    "url": "https://github.com/suekou/mcp-notion-server",
+    "description": "Community Notion MCP server for searching, reading, and editing pages and databases.",
+    "tags": [
+      "productivity",
+      "notes",
+      "community"
+    ],
+    "repo": "suekou/mcp-notion-server",
+    "stars": 920,
+    "forks": 180,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "OpenAPI MCP Server",
+    "url": "https://github.com/janwilmake/openapi-mcp-server",
+    "description": "Lets agents explore and understand large OpenAPI specs in plain language.",
+    "tags": [
+      "api",
+      "docs",
+      "devtools"
+    ],
+    "repo": "janwilmake/openapi-mcp-server",
+    "stars": 903,
+    "forks": 95,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Auto Browser",
+    "url": "https://github.com/LvcidPsyche/auto-browser",
+    "description": "MCP-native browser agent that gives AI a real browser with a human in the loop.",
+    "tags": [
+      "browser",
+      "automation",
+      "web"
+    ],
+    "repo": "LvcidPsyche/auto-browser",
+    "stars": 902,
+    "forks": 152,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "MCP-NixOS",
+    "url": "https://github.com/utensils/mcp-nixos",
+    "description": "Accurate NixOS, Home Manager, and nix-darwin package and option lookups for agents.",
+    "tags": [
+      "nix",
+      "devops",
+      "docs"
+    ],
+    "repo": "utensils/mcp-nixos",
+    "stars": 851,
+    "forks": 46,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Reddit MCP Buddy",
+    "url": "https://github.com/karanb192/reddit-mcp-buddy",
+    "description": "Browse Reddit posts, search content, and analyze users with LLM-friendly output.",
+    "tags": [
+      "reddit",
+      "social",
+      "search"
+    ],
+    "repo": "karanb192/reddit-mcp-buddy",
+    "stars": 846,
+    "forks": 106,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Query MCP (Supabase)",
+    "url": "https://github.com/alexander-zuev/supabase-mcp-server",
+    "description": "Manage Supabase from chat: safe read/write SQL, management API, and auth admin with risk tiers.",
+    "tags": [
+      "database",
+      "postgres",
+      "community"
+    ],
+    "repo": "alexander-zuev/supabase-mcp-server",
+    "stars": 831,
+    "forks": 102,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Excel MCP Server (sbroenne)",
+    "url": "https://github.com/sbroenne/mcp-server-excel",
+    "description": "Automate real Microsoft Excel on Windows: Power Query, DAX, VBA, PivotTables, and charts.",
+    "tags": [
+      "microsoft",
+      "spreadsheets",
+      "windows"
+    ],
+    "repo": "sbroenne/mcp-server-excel",
+    "stars": 802,
+    "forks": 91,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "SSH MCP",
+    "url": "https://github.com/tufantunc/ssh-mcp",
+    "description": "Run commands on Linux and Windows servers over SSH from MCP clients.",
+    "tags": [
+      "ssh",
+      "devops",
+      "remote"
+    ],
+    "repo": "tufantunc/ssh-mcp",
+    "stars": 782,
+    "forks": 124,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "GhidrAssistMCP",
+    "url": "https://github.com/symgraph/GhidrAssistMCP",
+    "description": "Native Ghidra extension exposing reverse-engineering analysis tools over MCP.",
+    "tags": [
+      "reverse-engineering",
+      "security",
+      "ghidra"
+    ],
+    "repo": "symgraph/GhidrAssistMCP",
+    "stars": 763,
+    "forks": 71,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  },
+  {
+    "name": "Wenyan",
+    "url": "https://github.com/caol64/wenyan-mcp",
+    "description": "Formats Markdown articles and publishes them to WeChat Official Accounts.",
+    "tags": [
+      "markdown",
+      "publishing",
+      "wechat"
+    ],
+    "repo": "caol64/wenyan-mcp",
+    "stars": 1332,
+    "forks": 141,
+    "watchers": null,
+    "stats_refreshed_at": "2026-10-07T05:55:00Z"
+  }
+]
