@@ -72,3 +72,7 @@ npm run smoke   # live: fetches mcptools.si and runs one search
 ## License
 
 MIT © Firas Steitiyeh. Directory data: [mcptools.si](https://mcptools.si).
+
+## List your MCP server on mcptools.si
+
+Maintainers can submit a server for free with the [submission form](https://github.com/steitiyeh/mcptools-mcp/issues/new?template=submit-mcp.yml). Every submission is reviewed by a human within ~2 business days, and there is no paid placement.

@@ -1,0 +1,74 @@
+name: Submit your MCP server to mcptools.si
+description: Free listing on the curated mcptools.si directory. Reviewed within ~2 business days. No paid placement.
+title: "[Submission] "
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting to [mcptools.si](https://mcptools.si)! Listing is **free**, every submission is **reviewed by a human within ~2 business days**, and there is **no paid placement**.
+
+        We check that the link opens and pull stars, last commit and archived status from GitHub automatically, so you only need the basics. Already listed? Search [mcptools.si](https://mcptools.si) first.
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repository URL
+      description: The public repo of the MCP server (a monorepo path like https://github.com/org/repo/tree/main/servers/x is fine).
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Server name
+      description: How it should be listed (e.g. "Playwright", "Postgres MCP Pro").
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: One-line description (max 100 characters)
+      description: What it lets an AI assistant do. Plain, factual, no superlatives.
+      placeholder: MCP server for querying and managing Postgres databases.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Pick the closest one; we may add more tags.
+      options:
+        - database
+        - devtools
+        - productivity
+        - search
+        - web / crawl
+        - browser / automation
+        - cloud / devops
+        - security
+        - observability
+        - analytics / finance
+        - memory / rag
+        - payments
+        - ai / creative / media
+        - other
+    validations:
+      required: true
+  - type: input
+    id: remote
+    attributes:
+      label: Remote endpoint URL (optional)
+      description: Hosted MCP endpoint, if there is one (Streamable HTTP or SSE).
+      placeholder: https://mcp.example.com/mcp
+  - type: input
+    id: package
+    attributes:
+      label: npm / PyPI package (optional)
+      placeholder: "@scope/my-mcp-server or my-mcp-server"
+  - type: checkboxes
+    id: maintainer
+    attributes:
+      label: Maintainer
+      options:
+        - label: I maintain this server (or work for the company that does)
+          required: false
